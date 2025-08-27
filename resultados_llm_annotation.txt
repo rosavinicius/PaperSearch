@@ -1,0 +1,2084 @@
+Resultados da busca por artigos entre 2023 e 2025
+Palavras-chave: llm, annotation
+
+Artigo encontrado: willemsen-skantze-2025-detecting (Ano: 2025)
+  Título: Detecting Referring Expressions in Visually Grounded Dialogue with Autoregressive Language Models
+
+Artigo encontrado: hellwig-etal-2025-still (Ano: 2025)
+  Título: Do we still need Human Annotators? Prompting Large Language Models for Aspect Sentiment Quad Prediction
+
+Artigo encontrado: ginn-palmer-2025-llm (Ano: 2025)
+  Título: {LLM} Dependency Parsing with In-Context Rules
+
+Artigo encontrado: walden-etal-2025-cross (Ano: 2025)
+  Título: Cross-Document Event-Keyed Summarization
+
+Artigo encontrado: popovic-etal-2025-docie (Ano: 2025)
+  Título: {D}oc{IE}@{XLLM}25: In-Context Learning for Information Extraction using Fully Synthetic Demonstrations
+
+Artigo encontrado: chen-2025-llmsr (Ano: 2025)
+  Título: {LLMSR}@{XLLM}25: {SWRV}: Empowering Self-Verification of Small Language Models through Step-wise Reasoning and Verification
+
+Artigo encontrado: xing-etal-2025-llmsr (Ano: 2025)
+  Título: {LLMSR}@{XLLM}25: A Language Model-Based Pipeline for Structured Reasoning Data Construction
+
+Artigo encontrado: caselli-plaza-del-arco-2025-learning (Ano: 2025)
+  Título: Learning from Disagreement: Entropy-Guided Few-Shot Selection for Toxic Language Detection
+
+Artigo encontrado: atil-etal-2025-llms (Ano: 2025)
+  Título: Can {LLM}s Rank the Harmfulness of Smaller {LLM}s? We are Not There Yet
+
+Artigo encontrado: frohling-etal-2025-personas (Ano: 2025)
+  Título: Personas with Attitudes: Controlling {LLM}s for Diverse Data Annotation
+
+Artigo encontrado: znotins-gruzitis-2025-conversational (Ano: 2025)
+  Título: From Conversational Speech to Readable Text: Post-Processing Noisy Transcripts in a Low-Resource Setting
+
+Artigo encontrado: sancheti-rudinger-2025-tracking (Ano: 2025)
+  Título: Tracking Evolving Relationship Between Characters in Books in the Era of Large Language Models
+
+Artigo encontrado: gobara-etal-2025-speaker (Ano: 2025)
+  Título: Speaker Identification and Dataset Construction Using {LLM}s: A Case Study on {J}apanese Narratives
+
+Artigo encontrado: radchenko-drushchak-2025-improving (Ano: 2025)
+  Título: Improving Named Entity Recognition for Low-Resource Languages Using Large Language Models: A {U}krainian Case Study
+
+Artigo encontrado: levine-etal-2025-building (Ano: 2025)
+  Título: Building {UD} Cairo for {O}ld {E}nglish in the Classroom
+
+Artigo encontrado: bhat-etal-2025-know (Ano: 2025)
+  Título: Know Thyself: Validating Knowledge Awareness of {LLM}-based Persona Agents
+
+Artigo encontrado: rawte-etal-2025-defining (Ano: 2025)
+  Título: Defining and Quantifying Visual Hallucinations in Vision-Language Models
+
+Artigo encontrado: jiang-etal-2025-shot (Ano: 2025)
+  Título: Few-Shot Multilingual Open-Domain {QA} from Five Examples
+
+Artigo encontrado: mahmoud-etal-2025-bertastic (Ano: 2025)
+  Título: {BERT}astic at {S}em{E}val-2025 Task 10: State-of-the-Art Accuracy in Coarse-Grained Entity Framing for {H}indi News
+
+Artigo encontrado: liu-chen-2025-ccnu (Ano: 2025)
+  Título: {CCNU} at {S}em{E}val-2025 Task 3: Leveraging Internal and External Knowledge of Large Language Models for Multilingual Hallucination Annotation
+
+Artigo encontrado: volker-etal-2025-salt (Ano: 2025)
+  Título: {SALT} at {S}em{E}val-2025 Task 2: A {SQL}-based Approach for {LLM}-Free Entity-Aware-Translation
+
+Artigo encontrado: hikal-etal-2025-msa-semeval (Ano: 2025)
+  Título: {MSA} at {S}em{E}val-2025 Task 3: High Quality Weak Labeling and {LLM} Ensemble Verification for Multilingual Hallucination Detection
+
+Artigo encontrado: bala-etal-2025-hausanlp (Ano: 2025)
+  Título: {H}ausa{NLP} at {S}em{E}val-2025 Task 3: Towards a Fine-Grained Model-Aware Hallucination Detection
+
+Artigo encontrado: xu-2025-wikidata (Ano: 2025)
+  Título: {W}ikidata-Driven Entity-Aware Translation: Boosting {LLM}s with External Knowledge
+
+Artigo encontrado: mitrovic-etal-2025-swushroomsia (Ano: 2025)
+  Título: Swushroomsia at {S}em{E}val-2025 Task 3: Probing {LLM}s' Collective Intelligence for Multilingual Hallucination Detection
+
+Artigo encontrado: purwarianti-etal-2025-nusadialogue (Ano: 2025)
+  Título: {N}usa{D}ialogue: Dialogue Summarization and Generation for Underrepresented and Extremely Low-Resource Languages
+
+Artigo encontrado: kiepura-lam-2025-climatecheck2025 (Ano: 2025)
+  Título: {C}limate{C}heck2025: Multi-Stage Retrieval Meets {LLM}s for Automated Scientfic Fact-Checking
+
+Artigo encontrado: mompelat-2025-recommendations (Ano: 2025)
+  Título: Recommendations for Overcoming Linguistic Barriers in Healthcare: Challenges and Innovations in {NLP} for {H}aitian {C}reole
+
+Artigo encontrado: yilandiloglu-siewert-2025-dudu (Ano: 2025)
+  Título: {DUDU}: A Treebank for {O}ttoman {T}urkish in {UD} Style
+
+Artigo encontrado: lu-2025-tracking (Ano: 2025)
+  Título: Tracking Green Industrial Policies with {LLM}s: A Demonstration
+
+Artigo encontrado: sahitaj-etal-2025-hybrid (Ano: 2025)
+  Título: Hybrid Annotation for Propaganda Detection: Integrating {LLM} Pre-Annotations with Human Intelligence
+
+Artigo encontrado: volkanovska-2025-large (Ano: 2025)
+  Título: Large Language Models as Annotators of Named Entities in Climate Change and Biodiversity: {A} Preliminary Study
+
+Artigo encontrado: brinner-zarriess-2025-efficient (Ano: 2025)
+  Título: Efficient Scientific Full Text Classification: {The} Case of {EICAT} Impact Assessments
+
+Artigo encontrado: nehrdich-etal-2025-mitra (Ano: 2025)
+  Título: {MITRA}-zh-eval: Using a Buddhist {C}hinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics
+
+Artigo encontrado: li-etal-2025-assessing (Ano: 2025)
+  Título: Assessing Crowdsourced Annotations with {LLM}s: Linguistic Certainty as a Proxy for Trustworthiness
+
+Artigo encontrado: piper-wu-2025-evaluating (Ano: 2025)
+  Título: Evaluating Large Language Models for Narrative Topic Labeling
+
+Artigo encontrado: cohen-etal-2025-historical (Ano: 2025)
+  Título: Historical Ink: Exploring Large Language Models for Irony Detection in 19th-Century {S}panish
+
+Artigo encontrado: greschner-klinger-2025-fearful (Ano: 2025)
+  Título: Fearful Falcons and Angry Llamas: Emotion Category Annotations of Arguments by Humans and {LLM}s
+
+Artigo encontrado: pujari-goldwasser-2025-llm (Ano: 2025)
+  Título: {LLM}-Human Pipeline for Cultural Grounding of Conversations
+
+Artigo encontrado: wang-etal-2025-anascore (Ano: 2025)
+  Título: {A}na{S}core: Understanding Semantic Parallelism in Proportional Analogies
+
+Artigo encontrado: maurya-etal-2025-unifying (Ano: 2025)
+  Título: Unifying {AI} Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of {LLM}-Powered {AI} Tutors
+
+Artigo encontrado: li-etal-2025-privacy (Ano: 2025)
+  Título: Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory
+
+Artigo encontrado: muhammad-etal-2025-afrihate (Ano: 2025)
+  Título: {A}fri{H}ate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for {A}frican Languages
+
+Artigo encontrado: tan-etal-2025-cascading (Ano: 2025)
+  Título: Cascading Large Language Models for Salient Event Graph Generation
+
+Artigo encontrado: leteno-etal-2025-histoiresmorales (Ano: 2025)
+  Título: {HISTOIRESMORALES}: A {F}rench Dataset for Assessing Moral Alignment
+
+Artigo encontrado: wang-etal-2025-dream (Ano: 2025)
+  Título: {DREAM}: Improving Video-Text Retrieval Through Relevance-Based Augmentation Using Large Foundation Models
+
+Artigo encontrado: zhao-etal-2025-beyond (Ano: 2025)
+  Título: Beyond Benchmarks: Building a Richer Cross-Document Event Coreference Dataset with Decontextualization
+
+Artigo encontrado: gligoric-etal-2025-unconfident (Ano: 2025)
+  Título: Can Unconfident {LLM} Annotations Be Used for Confident Conclusions?
+
+Artigo encontrado: nath-etal-2025-dpl (Ano: 2025)
+  Título: {DPL}: Diverse Preference Learning Without A Reference Model
+
+Artigo encontrado: kim-etal-2025-flex (Ano: 2025)
+  Título: {FLEX}: Expert-level False-Less {EX}ecution Metric for Text-to-{SQL} Benchmark
+
+Artigo encontrado: huang-etal-2025-mmevalpro (Ano: 2025)
+  Título: {MME}val{P}ro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation
+
+Artigo encontrado: gema-etal-2025-done (Ano: 2025)
+  Título: Are We Done with {MMLU}?
+
+Artigo encontrado: ni-etal-2025-diras (Ano: 2025)
+  Título: {DIRAS}: Efficient {LLM} Annotation of Document Relevance for Retrieval Augmented Generation
+
+Artigo encontrado: sandoval-etal-2025-llm (Ano: 2025)
+  Título: My {LLM} might Mimic {AAE} - But When Should It?
+
+Artigo encontrado: xing-etal-2025-evaluating (Ano: 2025)
+  Título: Evaluating Evidence Attribution in Generated Fact Checking Explanations
+
+Artigo encontrado: chochlakis-etal-2025-aggregation (Ano: 2025)
+  Título: Aggregation Artifacts in Subjective Tasks Collapse Large Language Models' Posteriors
+
+Artigo encontrado: ghosh-etal-2025-aegis2 (Ano: 2025)
+  Título: {AEGIS}2.0: A Diverse {AI} Safety Dataset and Risks Taxonomy for Alignment of {LLM} Guardrails
+
+Artigo encontrado: lee-etal-2025-plagbench (Ano: 2025)
+  Título: {P}lag{B}ench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection
+
+Artigo encontrado: zhou-etal-2025-miceval (Ano: 2025)
+  Título: {M}i{CE}val: Unveiling Multimodal Chain of Thought{'}s Quality via Image Description and Reasoning Steps
+
+Artigo encontrado: mamooler-etal-2025-picle (Ano: 2025)
+  Título: {PICL}e: Pseudo-annotations for In-Context Learning in Low-Resource Named Entity Detection
+
+Artigo encontrado: lahlou-etal-2025-port (Ano: 2025)
+  Título: {PORT}: Preference Optimization on Reasoning Traces
+
+Artigo encontrado: hasegawa-etal-2025-promqa (Ano: 2025)
+  Título: {P}ro{MQA}: Question Answering Dataset for Multimodal Procedural Activity Understanding
+
+Artigo encontrado: yang-etal-2025-single (Ano: 2025)
+  Título: Single Ground Truth Is Not Enough: Adding Flexibility to Aspect-Based Sentiment Analysis Evaluation
+
+Artigo encontrado: bao-etal-2025-faithbench (Ano: 2025)
+  Título: {F}aith{B}ench: A Diverse Hallucination Benchmark for Summarization by {M}odern {LLM}s
+
+Artigo encontrado: michel-etal-2025-evaluating (Ano: 2025)
+  Título: Evaluating {LLM}s for Quotation Attribution in Literary Texts: A Case Study of {LL}a{M}a3
+
+Artigo encontrado: liu-etal-2025-learning-llm (Ano: 2025)
+  Título: Learning {LLM} Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings
+
+Artigo encontrado: padhi-etal-2025-granite (Ano: 2025)
+  Título: Granite Guardian: Comprehensive {LLM} Safeguarding
+
+Artigo encontrado: jagatap-etal-2025-rxlens (Ano: 2025)
+  Título: {R}x{L}ens: Multi-Agent {LLM}-powered Scan and Order for Pharmacy
+
+Artigo encontrado: dhole-etal-2025-generative (Ano: 2025)
+  Título: Generative Product Recommendations for Implicit Superlative Queries
+
+Artigo encontrado: neveditsin-etal-2025-annotation (Ano: 2025)
+  Título: From Annotation to Adaptation: Metrics, Synthetic Data, and Aspect Extraction for Aspect-Based Sentiment Analysis with Large Language Models
+
+Artigo encontrado: fischer-biemann-2025-semi (Ano: 2025)
+  Título: Semi-automatic Sequential Sentence Classification in the Discourse Analysis Tool Suite
+
+Artigo encontrado: rios-2025-instruction (Ano: 2025)
+  Título: Instruction-tuned Large Language Models for Machine Translation in the Medical Domain
+
+Artigo encontrado: minder-etal-2025-testing (Ano: 2025)
+  Título: Testing {LLM}s' Capabilities in Annotating Translations Based on an Error Typology Designed for {LSP} Translation: First Experiments with {C}hat{GPT}
+
+Artigo encontrado: singh-etal-2025-quality (Ano: 2025)
+  Título: Quality Estimation and Post-Editing Using {LLM}s For {I}ndic Languages: How Good Is It?
+
+Artigo encontrado: rackauckas-hirschberg-2025-voxrag (Ano: 2025)
+  Título: {V}ox{RAG}: A Step Toward Transcription-Free {RAG} Systems in Spoken Question Answering
+
+Artigo encontrado: zhukova-etal-2025-automated (Ano: 2025)
+  Título: Automated Collection of Evaluation Dataset for Semantic Search in Low-Resource Domain Language
+
+Artigo encontrado: lasheras-pinheiro-2025-calquest (Ano: 2025)
+  Título: {C}a{LQ}uest.{PT}: Towards the Collection and Evaluation of Natural Causal Ladder Questions in {P}ortuguese for {AI} Agents
+
+Artigo encontrado: nacar-etal-2025-towards (Ano: 2025)
+  Título: Towards Inclusive {A}rabic {LLM}s: A Culturally Aligned Benchmark in {A}rabic Large Language Model Evaluation
+
+Artigo encontrado: sindhujan-etal-2025-llms (Ano: 2025)
+  Título: When {LLM}s Struggle: Reference-less Translation Evaluation for Low-resource Languages
+
+Artigo encontrado: reshetnikov-marinescu-2025-caption (Ano: 2025)
+  Título: Caption Generation in Cultural Heritage: Crowdsourced Data and Tuning Multimodal Large Language Models
+
+Artigo encontrado: sitter-etal-2025-annotating (Ano: 2025)
+  Título: Annotating Spatial Descriptions in Literary and Non-Literary Text
+
+Artigo encontrado: zaczynska-2025-expanding (Ano: 2025)
+  Título: Expanding the {UNSC} Conflicts Corpus by Incorporating Domain Expert Annotations and {LLM} Experiments
+
+Artigo encontrado: hagen-2025-lexical (Ano: 2025)
+  Título: Lexical Semantic Change Annotation with Large Language Models
+
+Artigo encontrado: inoue-etal-2025-laugh (Ano: 2025)
+  Título: Why Do We Laugh? Annotation and Taxonomy Generation for Laughable Contexts in Spontaneous Text Conversation
+
+Artigo encontrado: piergentili-etal-2025-llm (Ano: 2025)
+  Título: An {LLM}-as-a-judge Approach for Scalable Gender-Neutral Translation Evaluation
+
+Artigo encontrado: tang-sun-2025-big (Ano: 2025)
+  Título: Big Escape Benchmark: Evaluating Human-Like Reasoning in Language Models via Real-World Escape Room Challenges
+
+Artigo encontrado: lewis-2025-winning (Ano: 2025)
+  Título: Winning Big with Small Models: Knowledge Distillation vs. Self-Training for Reducing Hallucination in {QA} Agents
+
+Artigo encontrado: stephan-etal-2025-calculation (Ano: 2025)
+  Título: From Calculation to Adjudication: Examining {LLM} Judges on Mathematical Reasoning Tasks
+
+Artigo encontrado: liang-etal-2025-fine (Ano: 2025)
+  Título: Fine-Grained Constraint Generation-Verification for Improved Instruction-Following
+
+Artigo encontrado: mohammadi-etal-2025-assessing (Ano: 2025)
+  Título: Assessing the Reliability of {LLM}s Annotations in the Context of Demographic Bias and Model Explanation
+
+Artigo encontrado: hackenbuchner-etal-2025-genderous (Ano: 2025)
+  Título: {GENDEROUS}: Machine Translation and Cross-Linguistic Evaluation of a Gender-Ambiguous Dataset
+
+Artigo encontrado: kim-etal-2025-simplot (Ano: 2025)
+  Título: {SIMPLOT}: Enhancing Chart Question Answering by Distilling Essentials
+
+Artigo encontrado: horych-etal-2025-promises (Ano: 2025)
+  Título: The Promises and Pitfalls of {LLM} Annotations in Dataset Labeling: a Case Study on Media Bias Detection
+
+Artigo encontrado: hardy-2025-glitters (Ano: 2025)
+  Título: ``All that Glitters'': Techniques for Evaluations with Unreliable Model and Human Annotations
+
+Artigo encontrado: zhang-etal-2025-massw (Ano: 2025)
+  Título: {MASSW}: A New Dataset and Benchmark Tasks for {AI}-Assisted Scientific Workflows
+
+Artigo encontrado: zhao-etal-2025-challenges (Ano: 2025)
+  Título: Challenges in Trustworthy Human Evaluation of Chatbots
+
+Artigo encontrado: saffari-etal-2025-introduce (Ano: 2025)
+  Título: Can {I} Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models Capabilities on {I}ranian Social Norm Classification
+
+Artigo encontrado: parfenova-etal-2025-text (Ano: 2025)
+  Título: Text Annotation via Inductive Coding: Comparing Human Experts to {LLM}s in Qualitative Data Analysis
+
+Artigo encontrado: mahtab-etal-2025-bannerd (Ano: 2025)
+  Título: {B}an{NERD}: A Benchmark Dataset and Context-Driven Approach for {B}angla Named Entity Recognition
+
+Artigo encontrado: singh-etal-2025-empirical (Ano: 2025)
+  Título: An empirical study of validating synthetic data for formula generation
+
+Artigo encontrado: mahmoud-etal-2025-entity (Ano: 2025)
+  Título: Entity Framing and Role Portrayal in the News
+
+Artigo encontrado: yu-etal-2025-scrag (Ano: 2025)
+  Título: sc{RAG}: Hybrid Retrieval-Augmented Generation for {LLM}-based Cross-Tissue Single-Cell Annotation
+
+Artigo encontrado: zheng-etal-2025-critic (Ano: 2025)
+  Título: Critic-{C}o{T}: Boosting the Reasoning Abilities of Large Language Model via Chain-of-Thought Critic
+
+Artigo encontrado: zhao-etal-2025-response (Ano: 2025)
+  Título: How Does Response Length Affect Long-Form Factuality
+
+Artigo encontrado: pan-etal-2025-taxonomy (Ano: 2025)
+  Título: Taxonomy-Driven Knowledge Graph Construction for Domain-Specific Scientific Applications
+
+Artigo encontrado: lu-etal-2025-llm (Ano: 2025)
+  Título: Is {LLM} an Overconfident Judge? Unveiling the Capabilities of {LLM}s in Detecting Offensive Language with Annotation Disagreement
+
+Artigo encontrado: chen-etal-2025-agentcourt (Ano: 2025)
+  Título: {A}gent{C}ourt: Simulating Court with Adversarial Evolvable Lawyer Agents
+
+Artigo encontrado: zheng-etal-2025-reefknot (Ano: 2025)
+  Título: Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models
+
+Artigo encontrado: yan-etal-2025-rlkgf (Ano: 2025)
+  Título: {RLKGF}: Reinforcement Learning from Knowledge Graph Feedback Without Human Annotations
+
+Artigo encontrado: nguyen-etal-2025-minielm (Ano: 2025)
+  Título: {M}ini{ELM}: A Lightweight and Adaptive Query Rewriting Framework for {E}-Commerce Search Optimization
+
+Artigo encontrado: li-etal-2025-self-foveate (Ano: 2025)
+  Título: Self-Foveate: Enhancing Diversity and Difficulty of Synthesized Instructions from Unsupervised Text via Multi-Level Foveation
+
+Artigo encontrado: chan-etal-2025-boosting (Ano: 2025)
+  Título: Boosting Policy and Process Reward Models with {M}onte {C}arlo Tree Search in Open-Domain {QA}
+
+Artigo encontrado: tang-etal-2025-mtvqa (Ano: 2025)
+  Título: {MTVQA}: Benchmarking Multilingual Text-Centric Visual Question Answering
+
+Artigo encontrado: wei-etal-2025-cnnsum (Ano: 2025)
+  Título: {CNNS}um: Exploring Long-Context Summarization with Large Language Models in {C}hinese Novels
+
+Artigo encontrado: wei-etal-2025-mecot (Ano: 2025)
+  Título: {MEC}o{T}: {M}arkov Emotional Chain-of-Thought for Personality-Consistent Role-Playing
+
+Artigo encontrado: srirag-etal-2025-besstie (Ano: 2025)
+  Título: {BESSTIE}: A Benchmark for Sentiment and Sarcasm Classification for Varieties of {E}nglish
+
+Artigo encontrado: cazzaro-etal-2025-spot (Ano: 2025)
+  Título: {SPOT}: Zero-Shot Semantic Parsing Over Property Graphs
+
+Artigo encontrado: bai-etal-2025-state (Ano: 2025)
+  Título: {STATE} {T}oxi{CN}: A Benchmark for Span-level Target-Aware Toxicity Extraction in {C}hinese Hate Speech Detection
+
+Artigo encontrado: hei-etal-2025-unlocking (Ano: 2025)
+  Título: Unlocking Speech Instruction Data Potential with Query Rewriting
+
+Artigo encontrado: zhang-etal-2025-lessons (Ano: 2025)
+  Título: The Lessons of Developing Process Reward Models in Mathematical Reasoning
+
+Artigo encontrado: fan-etal-2025-minoseval (Ano: 2025)
+  Título: {M}inos{E}val: Distinguishing Factoid and Non-Factoid for Tailored Open-Ended {QA} Evaluation with {LLM}s
+
+Artigo encontrado: he-etal-2025-refining (Ano: 2025)
+  Título: Refining Sentence Embedding Model through Ranking Sentences Generation with Large Language Models
+
+Artigo encontrado: hao-etal-2025-glitters (Ano: 2025)
+  Título: All That Glitters is Not Gold: Improving Robust Retrieval-Augmented Language Models with Fact-Centric Preference Alignment
+
+Artigo encontrado: wen-etal-2025-listen (Ano: 2025)
+  Título: Listen, Watch, and Learn to Feel: Retrieval-Augmented Emotion Reasoning for Compound Emotion Generation
+
+Artigo encontrado: jiang-etal-2025-chatmap (Ano: 2025)
+  Título: {C}hat{M}ap: Mining Human Thought Processes for Customer Service Chatbots via Multi-Agent Collaboration
+
+Artigo encontrado: rudman-etal-2025-forgotten (Ano: 2025)
+  Título: Forgotten Polygons: Multimodal Large Language Models are Shape-Blind
+
+Artigo encontrado: yan-etal-2025-fiha (Ano: 2025)
+  Título: {FIHA}: Automated Fine-grained Hallucinations Evaluations in Large Vision Language Models with {D}avidson Scene Graphs
+
+Artigo encontrado: zhang-etal-2025-aiguard (Ano: 2025)
+  Título: {AIG}uard: A Benchmark and Lightweight Detection for {E}-commerce {AIGC} Risks
+
+Artigo encontrado: liang-etal-2025-dual (Ano: 2025)
+  Título: Dual Debiasing for Noisy In-Context Learning for Text Generation
+
+Artigo encontrado: srivastava-etal-2025-instruction (Ano: 2025)
+  Título: Instruction-Tuning {LLM}s for Event Extraction with Annotation Guidelines
+
+Artigo encontrado: cheng-etal-2025-caparena (Ano: 2025)
+  Título: {C}ap{A}rena: Benchmarking and Analyzing Detailed Image Captioning in the {LLM} Era
+
+Artigo encontrado: fang-etal-2025-glim (Ano: 2025)
+  Título: {GL}i{M}: Integrating Graph Transformer and {LLM} for Document-Level Biomedical Relation Extraction with Incomplete Labeling
+
+Artigo encontrado: chen-etal-2025-llm (Ano: 2025)
+  Título: {LLM}-Enhanced Query Generation and Retrieval Preservation for Task-Oriented Dialogue
+
+Artigo encontrado: zuo-etal-2025-knowcoder (Ano: 2025)
+  Título: {K}now{C}oder-{X}: Boosting Multilingual Information Extraction via Code
+
+Artigo encontrado: shimizu-etal-2025-exploring (Ano: 2025)
+  Título: Exploring {LLM} Annotation for Adaptation of Clinical Information Extraction Models under Data-sharing Restrictions
+
+Artigo encontrado: canby-etal-2025-benchmarking (Ano: 2025)
+  Título: Benchmarking Query-Conditioned Natural Language Inference
+
+Artigo encontrado: paci-etal-2025-want (Ano: 2025)
+  Título: They want to pretend not to understand: The Limits of Current {LLM}s in Interpreting Implicit Content of Political Discourse
+
+Artigo encontrado: cocchieri-etal-2025-zeroner (Ano: 2025)
+  Título: {Z}ero{NER}: Fueling Zero-Shot Named Entity Recognition via Entity Type Descriptions
+
+Artigo encontrado: petukhova-kochmar-2025-fully (Ano: 2025)
+  Título: A Fully Automated Pipeline for Conversational Discourse Annotation: Tree Scheme Generation and Labeling with Large Language Models
+
+Artigo encontrado: zhang-lyu-2025-language (Ano: 2025)
+  Título: Can Language Models Serve as Analogy Annotators?
+
+Artigo encontrado: li-etal-2025-consistency (Ano: 2025)
+  Título: On the Consistency of Commonsense in Large Language Models
+
+Artigo encontrado: zhang-xiong-2025-debate4math (Ano: 2025)
+  Título: {D}ebate4{MATH}: Multi-Agent Debate for Fine-Grained Reasoning in Math
+
+Artigo encontrado: saparina-lapata-2025-disambiguate (Ano: 2025)
+  Título: Disambiguate First, Parse Later: Generating Interpretations for Ambiguity Resolution in Semantic Parsing
+
+Artigo encontrado: li-etal-2025-reflectevo (Ano: 2025)
+  Título: {R}eflect{E}vo: Improving Meta Introspection of Small {LLM}s by Learning Self-Reflection
+
+Artigo encontrado: sorodoc-etal-2025-garage (Ano: 2025)
+  Título: {G}a{RAG}e: A Benchmark with Grounding Annotations for {RAG} Evaluation
+
+Artigo encontrado: jin-etal-2025-rag (Ano: 2025)
+  Título: {RAG}-{R}eward{B}ench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment
+
+Artigo encontrado: sanchez-bayona-agerri-2025-metaphor (Ano: 2025)
+  Título: Metaphor and Large Language Models: When Surface Features Matter More than Deep Understanding
+
+Artigo encontrado: zhu-etal-2025-fanno (Ano: 2025)
+  Título: {FANNO}: Augmenting High-Quality Instruction Data with Open-Sourced {LLM}s Only
+
+Artigo encontrado: kim-etal-2025-look (Ano: 2025)
+  Título: Look {\&} Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest {X}-ray Report Generation
+
+Artigo encontrado: yao-etal-2025-generative (Ano: 2025)
+  Título: Generative Frame Sampler for Long Video Understanding
+
+Artigo encontrado: shardlow-etal-2025-exploring (Ano: 2025)
+  Título: Exploring Supervised Approaches to the Detection of Anthropomorphic Language in the Reporting of {NLP} Venues
+
+Artigo encontrado: wang-etal-2025-medcite (Ano: 2025)
+  Título: {M}ed{C}ite: Can Language Models Generate Verifiable Text for Medicine?
+
+Artigo encontrado: vallurupalli-ferraro-2025-core (Ano: 2025)
+  Título: {C}o{RE}: Condition-based Reasoning for Identifying Outcome Variance in Complex Events
+
+Artigo encontrado: luo-etal-2025-rethinking (Ano: 2025)
+  Título: Rethinking Diverse Human Preference Learning through Principal Component Analysis
+
+Artigo encontrado: cai-etal-2025-search (Ano: 2025)
+  Título: In Search of the Lost Arch in Dialogue: A Dependency Dialogue Acts Corpus for Multi-Party Dialogues
+
+Artigo encontrado: xu-etal-2025-mwpo (Ano: 2025)
+  Título: {MWPO}: Enhancing {LLM}s Performance through Multi-Weight Preference Strength and Length Optimization
+
+Artigo encontrado: lekssays-etal-2025-techniquerag (Ano: 2025)
+  Título: {T}echnique{RAG}: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text
+
+Artigo encontrado: deng-mihalcea-2025-rethinking (Ano: 2025)
+  Título: Rethinking Table Instruction Tuning
+
+Artigo encontrado: wang-etal-2025-adversarial (Ano: 2025)
+  Título: Adversarial Preference Learning for Robust {LLM} Alignment
+
+Artigo encontrado: alipour-etal-2025-robustness (Ano: 2025)
+  Título: Robustness and Confounders in the Demographic Alignment of {LLM}s with Human Perceptions of Offensiveness
+
+Artigo encontrado: ghosh-etal-2025-ladder (Ano: 2025)
+  Título: {LADDER}: Language-Driven Slice Discovery and Error Rectification in Vision Classifiers
+
+Artigo encontrado: jiang-etal-2025-safechain (Ano: 2025)
+  Título: {S}afe{C}hain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities
+
+Artigo encontrado: marreddy-etal-2025-usdc (Ano: 2025)
+  Título: {USDC}: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$onversations
+
+Artigo encontrado: ri-etal-2025-reranking (Ano: 2025)
+  Título: Reranking-based Generation for Unbiased Perspective Summarization
+
+Artigo encontrado: wei-etal-2025-legalcore (Ano: 2025)
+  Título: {L}egal{C}ore: A Dataset for Event Coreference Resolution in Legal Documents
+
+Artigo encontrado: aghakhani-etal-2025-conversation (Ano: 2025)
+  Título: From Conversation to Automation: Leveraging {LLM}s for Problem-Solving Therapy Analysis
+
+Artigo encontrado: schroeder-etal-2025-just (Ano: 2025)
+  Título: Just Put a Human in the Loop? Investigating {LLM}-Assisted Annotation for Subjective Tasks
+
+Artigo encontrado: ji-etal-2025-enhancing (Ano: 2025)
+  Título: Enhancing Persona Consistency for {LLM}s' Role-Playing using Persona-Aware Contrastive Learning
+
+Artigo encontrado: trainin-abend-2025-t5score (Ano: 2025)
+  Título: $T^5Score$: A Methodology for Automatically Assessing the Quality of {LLM} Generated Multi-Document Topic Sets
+
+Artigo encontrado: chen-etal-2025-search (Ano: 2025)
+  Título: Search-in-Context: Efficient Multi-Hop {QA} over Long Contexts via {M}onte {C}arlo Tree Search with Dynamic {KV} Retrieval
+
+Artigo encontrado: zhang-etal-2025-intentionesc (Ano: 2025)
+  Título: {I}ntention{ESC}: An Intention-Centered Framework for Enhancing Emotional Support in Dialogue Systems
+
+Artigo encontrado: cao-etal-2025-rationalize (Ano: 2025)
+  Título: Rationalize and Align: Enhancing Writing Assistance with Rationale via Self-Training for Improved Alignment
+
+Artigo encontrado: abdelgaber-etal-2025-bridging (Ano: 2025)
+  Título: Bridging the Socioeconomic Gap in Education: A Hybrid {AI} and Human Annotation Approach
+
+Artigo encontrado: bibal-etal-2025-automating (Ano: 2025)
+  Título: Automating Annotation Guideline Improvements using {LLM}s: A Case Study
+
+Artigo encontrado: zhong-etal-2025-synthet2c (Ano: 2025)
+  Título: {S}ynthe{T}2{C}: Generating Synthetic Data for Fine-Tuning Large Language Models on the {T}ext2{C}ypher Task
+
+Artigo encontrado: fu-etal-2025-iterate (Ano: 2025)
+  Título: {ITERATE}: Image-Text Enhancement, Retrieval, and Alignment for Transmodal Evolution with {LLM}s
+
+Artigo encontrado: ai-etal-2025-novascore (Ano: 2025)
+  Título: {N}ov{AS}core: A New Automated Metric for Evaluating Document Level Novelty
+
+Artigo encontrado: mbaye-diallo-2025-task (Ano: 2025)
+  Título: Task-Oriented Dialog Systems for the Senegalese {W}olof Language
+
+Artigo encontrado: wang-etal-2025-openforecast (Ano: 2025)
+  Título: {O}pen{F}orecast: A Large-Scale Open-Ended Event Forecasting Dataset
+
+Artigo encontrado: lu-etal-2025-mqm (Ano: 2025)
+  Título: {MQM}-{APE}: Toward High-Quality Error Annotation Predictors with Automatic Post-Editing in {LLM} Translation Evaluators
+
+Artigo encontrado: proebsting-poliak-2025-biases (Ano: 2025)
+  Título: Biases in Large Language Model-Elicited Text: A Case Study in Natural Language Inference
+
+Artigo encontrado: ghazaryan-etal-2025-syndarin (Ano: 2025)
+  Título: {S}yn{DAR}in: Synthesising Datasets for Automated Reasoning in Low-Resource Languages
+
+Artigo encontrado: ford-etal-2025-charting (Ano: 2025)
+  Título: Charting the Future: Using Chart Question-Answering for Scalable Evaluation of {LLM}-Driven Data Visualizations
+
+Artigo encontrado: chollampatt-etal-2025-cross (Ano: 2025)
+  Título: Cross-lingual Evaluation of Multilingual Text Generation
+
+Artigo encontrado: amalvy-etal-2025-role (Ano: 2025)
+  Título: The Role of Natural Language Processing Tasks in Automatic Literary Character Network Construction
+
+Artigo encontrado: liu-etal-2025-chain (Ano: 2025)
+  Título: A Chain-of-Task Framework for Instruction Tuning of {LLM}s Based on {C}hinese Grammatical Error Correction
+
+Artigo encontrado: li-etal-2025-exploring-reliability (Ano: 2025)
+  Título: Exploring the Reliability of Large Language Models as Customized Evaluators for Diverse {NLP} Tasks
+
+Artigo encontrado: fan-etal-2025-llm (Ano: 2025)
+  Título: An {LLM}-based Framework for Biomedical Terminology Normalization in Social Media via Multi-Agent Collaboration
+
+Artigo encontrado: zhu-etal-2025-llmlink (Ano: 2025)
+  Título: {L}lm{L}ink: Dual {LLM}s for Dynamic Entity Linking on Long Narratives with Collaborative Memorisation and Prompt Optimisation
+
+Artigo encontrado: wang-etal-2025-building (Ano: 2025)
+  Título: Building a Family of Data Augmentation Models for Low-cost {LLM} Fine-tuning on the Cloud
+
+Artigo encontrado: xie-etal-2025-simple (Ano: 2025)
+  Título: A Simple yet Efficient Prompt Compression Method for Text Classification Data Annotation Using {LLM}
+
+Artigo encontrado: rana-etal-2025-zero (Ano: 2025)
+  Título: Zero-shot Slot Filling in the Age of {LLM}s for Dialogue Systems
+
+Artigo encontrado: cheng-amiri-2025-linguistic (Ano: 2025)
+  Título: Linguistic Blind Spots of Large Language Models
+
+Artigo encontrado: ruder-etal-2025-assessing (Ano: 2025)
+  Título: Assessing the Reliability and Validity of {GPT}-4 in Annotating Emotion Appraisal Ratings
+
+Artigo encontrado: goel-etal-2025-socratic (Ano: 2025)
+  Título: Socratic Reasoning Improves Positive Text Rewriting
+
+Artigo encontrado: aich-etal-2025-using (Ano: 2025)
+  Título: Using {LLM}s to Aid Annotation and Collection of Clinically-Enriched Data in Bipolar Disorder and Schizophrenia
+
+Artigo encontrado: wang-etal-2025-posts (Ano: 2025)
+  Título: From Posts to Timelines: Modeling Mental Health Dynamics from Social Media Timelines with Hybrid {LLM}s
+
+Artigo encontrado: pan-etal-2025-climateie (Ano: 2025)
+  Título: {C}limate{IE}: A Dataset for Climate Science Information Extraction
+
+Artigo encontrado: mutalik-etal-2025-cpiqa (Ano: 2025)
+  Título: {CPIQA}: Climate Paper Image Question Answering Dataset for Retrieval-Augmented Generation with Context-based Query Expansion
+
+Artigo encontrado: elyazori-etal-2025-capturing (Ano: 2025)
+  Título: Capturing Patients' Lived Experiences with Chronic Pain through Motivational Interviewing and Information Extraction
+
+Artigo encontrado: moghe-etal-2025-machine (Ano: 2025)
+  Título: Machine Translation Meta Evaluation through Translation Accuracy Challenge Sets
+
+Artigo encontrado: park-etal-2025-llm (Ano: 2025)
+  Título: {LLM}-{C}3{MOD}: A Human-{LLM} Collaborative System for Cross-Cultural Hate Speech Moderation
+
+Artigo encontrado: ozturk-etal-2025-make (Ano: 2025)
+  Título: Make Satire Boring Again: Reducing Stylistic Bias of Satirical Corpus by Utilizing Generative {LLM}s
+
+Artigo encontrado: bago-bakaric-2025-shot (Ano: 2025)
+  Título: Few-Shot Prompting, Full-Scale Confusion: Evaluating Large Language Models for Humor Detection in {C}roatian Tweets
+
+Artigo encontrado: derner-batistic-2025-gender (Ano: 2025)
+  Título: Gender Representation Bias Analysis in {LLM}-Generated {C}zech and {S}lovenian Texts
+
+Artigo encontrado: pugachev-etal-2025-repa (Ano: 2025)
+  Título: {REPA}: {R}ussian Error Types Annotation for Evaluating Text Generation and Judgment Capabilities
+
+Artigo encontrado: sawinski-etal-2025-multilabel (Ano: 2025)
+  Título: Multilabel Classification of Persuasion Techniques with self-improving {LLM} agent: {S}lavic{NLP} 2025 Shared Task
+
+Artigo encontrado: diekmann-etal-2025-llms (Ano: 2025)
+  Título: {LLM}s as Medical Safety Judges: Evaluating Alignment with Human Annotation in Patient-Facing {QA}
+
+Artigo encontrado: yoo-etal-2025-large (Ano: 2025)
+  Título: Can Large Language Models Classify and Generate Antimicrobial Resistance Genes?
+
+Artigo encontrado: dao-etal-2025-overcoming (Ano: 2025)
+  Título: Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models
+
+Artigo encontrado: kolagar-etal-2025-investigating (Ano: 2025)
+  Título: Investigating Methods for Mapping Learning Objectives to Bloom{'}s Revised Taxonomy in Course Descriptions for Higher Education
+
+Artigo encontrado: akter-etal-2025-costs (Ano: 2025)
+  Título: Costs and Benefits of {AI}-Enabled Topic Modeling in {P}-20 Research: The Case of School Improvement Plans
+
+Artigo encontrado: koutcheme-etal-2025-direct (Ano: 2025)
+  Título: Direct Repair Optimization: Training Small Language Models For Educational Program Repair Improves Feedback
+
+Artigo encontrado: mulcaire-madnani-2025-span (Ano: 2025)
+  Título: Span Labeling with Large Language Models: Shell vs. Meat
+
+Artigo encontrado: petukhova-kochmar-2025-intent (Ano: 2025)
+  Título: Intent Matters: Enhancing {AI} Tutoring with Fine-Grained Pedagogical Intent Annotation
+
+Artigo encontrado: nebhi-etal-2025-end (Ano: 2025)
+  Título: End-to-End Automated Item Generation and Scoring for Adaptive {E}nglish Writing Assessment with Large Language Models
+
+Artigo encontrado: kochmar-etal-2025-findings (Ano: 2025)
+  Título: Findings of the {BEA} 2025 Shared Task on Pedagogical Ability Assessment of {AI}-powered Tutors
+
+Artigo encontrado: schaefer-2025-integrating (Ano: 2025)
+  Título: On Integrating {LLM}s Into an Argument Annotation Workflow
+
+Artigo encontrado: calvo-figueras-etal-2025-overview (Ano: 2025)
+  Título: Overview of the Critical Questions Generation Shared Task
+
+Artigo encontrado: sanchez-montero-etal-2025-prompting (Ano: 2025)
+  Título: Prompting Metaphoricity: Soft Labeling with Large Language Models in Popular Communication of Science Tweets in {S}panish
+
+Artigo encontrado: sadiri-javadi-etal-2025-stories (Ano: 2025)
+  Título: Can Stories Help {LLM}s Reason? Curating Information Space Through Narrative
+
+Artigo encontrado: alnumay-etal-2025-command (Ano: 2025)
+  Título: Command {R}7{B} {A}rabic: a small, enterprise-focused, multilingual, and culturally aware {A}rabic {LLM}
+
+Artigo encontrado: wang-etal-2025-ecomscriptbench (Ano: 2025)
+  Título: {E}com{S}cript{B}ench: A Multi-task Benchmark for {E}-commerce Script Planning via Step-wise Intention-Driven Product Association
+
+Artigo encontrado: luo-etal-2025-tree (Ano: 2025)
+  Título: Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models
+
+Artigo encontrado: liu-etal-2025-multimodal-large (Ano: 2025)
+  Título: Can Multimodal Large Language Models Understand Spatial Relations?
+
+Artigo encontrado: wang-etal-2025-bpp (Ano: 2025)
+  Título: {BPP}-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving
+
+Artigo encontrado: peng-etal-2025-cuckoo (Ano: 2025)
+  Título: Cuckoo: An {IE} Free Rider Hatched by Massive Nutrition in {LLM}{'}s Nest
+
+Artigo encontrado: jung-etal-2025-binary (Ano: 2025)
+  Título: Binary Classifier Optimization for Large Language Model Alignment
+
+Artigo encontrado: zhong-litman-2025-information (Ano: 2025)
+  Título: From Information to Insight: Leveraging {LLM}s for Open Aspect-Based Educational Summarization
+
+Artigo encontrado: orlikowski-etal-2025-beyond (Ano: 2025)
+  Título: Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals' Subjective Text Perceptions
+
+Artigo encontrado: lai-etal-2025-androidgen (Ano: 2025)
+  Título: {A}ndroid{G}en: Building an Android Language Agent under Data Scarcity
+
+Artigo encontrado: xia-etal-2025-prompt (Ano: 2025)
+  Título: Prompt Candidates, then Distill: A Teacher-Student Framework for {LLM}-driven Data Annotation
+
+Artigo encontrado: dong-etal-2025-progressive (Ano: 2025)
+  Título: Progressive Multimodal Reasoning via Active Retrieval
+
+Artigo encontrado: luo-etal-2025-automating (Ano: 2025)
+  Título: Automating Legal Interpretation with {LLM}s: Retrieval, Generation, and Evaluation
+
+Artigo encontrado: sun-etal-2025-efficient (Ano: 2025)
+  Título: An Efficient and Precise Training Data Construction Framework for Process-supervised Reward Model in Mathematical Reasoning
+
+Artigo encontrado: feng-etal-2025-warriorcoder (Ano: 2025)
+  Título: {W}arrior{C}oder: Learning from Expert Battles to Augment Code Large Language Models
+
+Artigo encontrado: jourdan-etal-2025-identifying (Ano: 2025)
+  Título: Identifying Reliable Evaluation Metrics for Scientific Text Revision
+
+Artigo encontrado: lu-etal-2025-seoe (Ano: 2025)
+  Título: {SEOE}: A Scalable and Reliable Semantic Evaluation Framework for Open Domain Event Detection
+
+Artigo encontrado: ruiz-dolz-etal-2025-mining (Ano: 2025)
+  Título: Mining Complex Patterns of Argumentative Reasoning in Natural Language Dialogue
+
+Artigo encontrado: chen-etal-2025-translation (Ano: 2025)
+  Título: Translation and Fusion Improves Cross-lingual Information Extraction
+
+Artigo encontrado: alkhouli-etal-2025-confetti (Ano: 2025)
+  Título: {CONFETTI}: Conversational Function-Calling Evaluation Through Turn-Level Interactions
+
+Artigo encontrado: ma-etal-2025-explicit (Ano: 2025)
+  Título: Explicit and Implicit Data Augmentation for Social Event Detection
+
+Artigo encontrado: zhao-etal-2025-scale (Ano: 2025)
+  Título: {SCALE}: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention
+
+Artigo encontrado: muhammad-etal-2025-brighter (Ano: 2025)
+  Título: {BRIGHTER}: {BRI}dging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages
+
+Artigo encontrado: wei-etal-2025-identifying (Ano: 2025)
+  Título: Identifying Cellular Niches in Spatial Transcriptomics: An Investigation into the Capabilities of Large Language Models
+
+Artigo encontrado: xu-etal-2025-context (Ano: 2025)
+  Título: Does Context Matter? {C}ontextual{J}udge{B}ench for Evaluating {LLM}-based Judges in Contextual Settings
+
+Artigo encontrado: wang-etal-2025-haic (Ano: 2025)
+  Título: {HAIC}: Improving Human Action Understanding and Generation with Better Captions for Multi-modal Large Language Models
+
+Artigo encontrado: li-etal-2025-autogui (Ano: 2025)
+  Título: {A}uto{GUI}: Scaling {GUI} Grounding with Automatic Functionality Annotations from {LLM}s
+
+Artigo encontrado: zhu-etal-2025-trove (Ano: 2025)
+  Título: {TROVE}: A Challenge for Fine-Grained Text Provenance via Source Sentence Tracing and Relationship Classification
+
+Artigo encontrado: zhang-etal-2025-roleplot (Ano: 2025)
+  Título: {R}ole{P}lot: A Systematic Framework for Evaluating and Enhancing the Plot-Progression Capabilities of Role-Playing Agents
+
+Artigo encontrado: xu-etal-2025-interactive (Ano: 2025)
+  Título: Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models
+
+Artigo encontrado: xu-etal-2025-genius (Ano: 2025)
+  Título: Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning
+
+Artigo encontrado: zhou-etal-2025-training (Ano: 2025)
+  Título: A Training-free {LLM}-based Approach to General {C}hinese Character Error Correction
+
+Artigo encontrado: wang-etal-2025-innovative (Ano: 2025)
+  Título: Innovative Image Fraud Detection with Cross-Sample Anomaly Analysis: The Power of {LLM}s
+
+Artigo encontrado: ren-etal-2025-towards (Ano: 2025)
+  Título: Towards Comprehensive Argument Analysis in Education: Dataset, Tasks, and Method
+
+Artigo encontrado: min-etal-2025-towards (Ano: 2025)
+  Título: Towards Multi-dimensional Evaluation of {LLM} Summarization across Domains and Languages
+
+Artigo encontrado: xia-etal-2025-selection (Ano: 2025)
+  Título: From Selection to Generation: A Survey of {LLM}-based Active Learning
+
+Artigo encontrado: he-etal-2025-crab (Ano: 2025)
+  Título: Crab: A Novel Configurable Role-Playing {LLM} with Assessing Benchmark
+
+Artigo encontrado: liu-etal-2025-m2rc (Ano: 2025)
+  Título: {M}2{RC}-{EVAL}: Massively Multilingual Repository-level Code Completion Evaluation
+
+Artigo encontrado: hoyle-etal-2025-proxann (Ano: 2025)
+  Título: {P}rox{A}nn: Use-Oriented Evaluations of Topic Models and Document Clustering
+
+Artigo encontrado: findeis-etal-2025-external (Ano: 2025)
+  Título: Can External Validation Tools Improve Annotation Quality for {LLM}-as-a-Judge?
+
+Artigo encontrado: calderon-etal-2025-alternative (Ano: 2025)
+  Título: The Alternative Annotator Test for {LLM}-as-a-Judge: How to Statistically Justify Replacing Human Annotators with {LLM}s
+
+Artigo encontrado: shi-etal-2025-mutual (Ano: 2025)
+  Título: Mutual-Taught for Co-adapting Policy and Reward Models
+
+Artigo encontrado: hu-etal-2025-llms (Ano: 2025)
+  Título: Can {LLM}s Evaluate Complex Attribution in {QA}? Automatic Benchmarking using Knowledge Graphs
+
+Artigo encontrado: han-etal-2025-value (Ano: 2025)
+  Título: Value Portrait: Assessing Language Models' Values through Psychometrically and Ecologically Valid Items
+
+Artigo encontrado: schafer-etal-2025-demographics (Ano: 2025)
+  Título: Which Demographics do {LLM}s Default to During Annotation?
+
+Artigo encontrado: xie-etal-2025-outcomes (Ano: 2025)
+  Título: From Outcomes to Processes: Guiding {PRM} Learning from {ORM} for Inference-Time Alignment
+
+Artigo encontrado: zhang-etal-2025-aligndistil (Ano: 2025)
+  Título: {A}lign{D}istil: Token-Level Language Model Alignment as Adaptive Policy Distillation
+
+Artigo encontrado: rizvi-etal-2025-autalic (Ano: 2025)
+  Título: {AUTALIC}: A Dataset for Anti-{AUT}istic Ableist Language In Context
+
+Artigo encontrado: li-etal-2025-third (Ano: 2025)
+  Título: Can Third Parties Read Our Emotions?
+
+Artigo encontrado: tang-etal-2025-cognibench (Ano: 2025)
+  Título: {C}ogni{B}ench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models
+
+Artigo encontrado: liao-etal-2025-automated (Ano: 2025)
+  Título: Automated {CAD} Modeling Sequence Generation from Text Descriptions via Transformer-Based Large Language Models
+
+Artigo encontrado: suri-etal-2025-chartlens (Ano: 2025)
+  Título: {C}hart{L}ens: Fine-grained Visual Attribution in Charts
+
+Artigo encontrado: cruz-blandon-etal-2025-memerag (Ano: 2025)
+  Título: {MEMERAG}: A Multilingual End-to-End Meta-Evaluation Benchmark for Retrieval Augmented Generation
+
+Artigo encontrado: tang-etal-2025-synthesizing (Ano: 2025)
+  Título: Synthesizing Post-Training Data for {LLM}s through Multi-Agent Simulation
+
+Artigo encontrado: wang-etal-2025-qualispeech (Ano: 2025)
+  Título: {Q}uali{S}peech: A Speech Quality Assessment Dataset with Natural Language Reasoning and Descriptions
+
+Artigo encontrado: li-etal-2025-uncertainty (Ano: 2025)
+  Título: Uncertainty-Aware Iterative Preference Optimization for Enhanced {LLM} Reasoning
+
+Artigo encontrado: zhang-etal-2025-chemactor (Ano: 2025)
+  Título: {C}hem{A}ctor: Enhancing Automated Extraction of Chemical Synthesis Actions with {LLM}-Generated Data
+
+Artigo encontrado: chen-etal-2025-retrospective (Ano: 2025)
+  Título: Retrospective Learning from Interactions
+
+Artigo encontrado: jiang-etal-2025-rationalyst (Ano: 2025)
+  Título: {RATIONALYST}: Pre-training Process-Supervision for Improving Reasoning
+
+Artigo encontrado: chen-etal-2025-make (Ano: 2025)
+  Título: Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation
+
+Artigo encontrado: hu-etal-2025-dual (Ano: 2025)
+  Título: A Dual-Perspective {NLG} Meta-Evaluation Framework with Automatic Benchmark and Better Interpretability
+
+Artigo encontrado: ghosh-etal-2025-just (Ano: 2025)
+  Título: Just a Scratch: Enhancing {LLM} Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation
+
+Artigo encontrado: zhu-etal-2025-deepreview (Ano: 2025)
+  Título: {D}eep{R}eview: Improving {LLM}-based Paper Review with Human-like Deep Thinking Process
+
+Artigo encontrado: ramos-etal-2025-grammamt (Ano: 2025)
+  Título: {G}ramma{MT}: Improving Machine Translation with Grammar-Informed In-Context Learning
+
+Artigo encontrado: leang-etal-2025-theorem (Ano: 2025)
+  Título: Theorem Prover as a Judge for Synthetic Data Generation
+
+Artigo encontrado: wan-etal-2025-speechiq (Ano: 2025)
+  Título: {S}peech{IQ}: Speech-Agentic Intelligence Quotient Across Cognitive Levels in Voice Understanding by Large Language Models
+
+Artigo encontrado: yu-etal-2025-isr (Ano: 2025)
+  Título: {ISR}: Self-Refining Referring Expressions for Entity Grounding
+
+Artigo encontrado: luo-etal-2025-survey (Ano: 2025)
+  Título: A Survey on Efficient Large Language Model Training: From Data-centric Perspectives
+
+Artigo encontrado: xu-etal-2025-subtle (Ano: 2025)
+  Título: Subtle Errors in Reasoning: Preference Learning via Error-injected Self-editing
+
+Artigo encontrado: ji-etal-2025-pku (Ano: 2025)
+  Título: {PKU}-{S}afe{RLHF}: Towards Multi-Level Safety Alignment for {LLM}s with Human Preference
+
+Artigo encontrado: alwajih-etal-2025-palm (Ano: 2025)
+  Título: Palm: A Culturally Inclusive and Linguistically Diverse Dataset for {A}rabic {LLM}s
+
+Artigo encontrado: bavaresco-etal-2025-llms (Ano: 2025)
+  Título: {LLM}s instead of Human Judges? A Large Scale Empirical Study across 20 {NLP} Evaluation Tasks
+
+Artigo encontrado: sakib-etal-2025-spurious (Ano: 2025)
+  Título: Spurious Correlations and Beyond: Understanding and Mitigating Shortcut Learning in {SDOH} Extraction with Large Language Models
+
+Artigo encontrado: dihan-etal-2025-mapqator (Ano: 2025)
+  Título: {M}ap{Q}a{T}or: An Extensible Framework for Efficient Annotation of Map-Based {QA} Datasets
+
+Artigo encontrado: lu-etal-2025-autoalign (Ano: 2025)
+  Título: {A}uto{A}lign: Get Your {LLM} Aligned with Minimal Annotations
+
+Artigo encontrado: wasti-etal-2025-translationcorrect (Ano: 2025)
+  Título: {TRANSLATIONCORRECT}: A Unified Framework for Machine Translation Post-Editing with Predictive Error Assistance
+
+Artigo encontrado: menini-etal-2025-first (Ano: 2025)
+  Título: First-{AID}: the first Annotation Interface for grounded Dialogues
+
+Artigo encontrado: tsvigun-etal-2025-atgen (Ano: 2025)
+  Título: {ATG}en: A Framework for Active Text Generation
+
+Artigo encontrado: liu-etal-2025-ma (Ano: 2025)
+  Título: {MA}-{COIR}: Leveraging Semantic Search Index and Generative Models for Ontology-Driven Biomedical Concept Recognition
+
+Artigo encontrado: li-chen-2025-lip (Ano: 2025)
+  Título: {LIP}-{NER}: Literal Patterns Benefit {LLM}-Based {NER}
+
+Artigo encontrado: kumar-nolbaria-2025-bridging (Ano: 2025)
+  Título: Bridging the Data Gap in Financial Sentiment: {LLM}-Driven Augmentation
+
+Artigo encontrado: ji-etal-2025-raven (Ano: 2025)
+  Título: {RAVEN}: Robust Advertisement Video Violation Temporal Grounding via Reinforcement Reasoning
+
+Artigo encontrado: shah-etal-2025-tn (Ano: 2025)
+  Título: {TN}-Eval: Rubric and Evaluation Protocols for Measuring the Quality of Behavioral Therapy Notes
+
+Artigo encontrado: zhen-etal-2025-enhancing (Ano: 2025)
+  Título: Enhancing {LLM}-as-a-Judge through Active-Sampling-based Prompt Optimization
+
+Artigo encontrado: dementieva-etal-2024-toxicity (Ano: 2024)
+  Título: Toxicity Classification in {U}krainian
+
+Artigo encontrado: kocmi-etal-2024-findings (Ano: 2024)
+  Título: Findings of the {WMT}24 General Machine Translation Shared Task: The {LLM} Era Is Here but {MT} Is Not Solved Yet
+
+Artigo encontrado: zerva-etal-2024-findings (Ano: 2024)
+  Título: Findings of the Quality Estimation Shared Task at {WMT} 2024: Are {LLM}s Closing the Gap in {QE}?
+
+Artigo encontrado: juros-etal-2024-llms (Ano: 2024)
+  Título: {LLM}s for Targeted Sentiment in News Headlines: Exploring the Descriptive-Prescriptive Dilemma
+
+Artigo encontrado: giorgi-etal-2024-findings (Ano: 2024)
+  Título: Findings of {WASSA} 2024 Shared Task on Empathy and Personality Detection in Interactions
+
+Artigo encontrado: kolagar-zarcone-2024-aligning (Ano: 2024)
+  Título: Aligning Uncertainty: Leveraging {LLM}s to Analyze Uncertainty Transfer in Text Summarization
+
+Artigo encontrado: rashad-etal-2024-factalign (Ano: 2024)
+  Título: {F}act{A}lign: Fact-Level Hallucination Detection and Classification Through Knowledge Graph Alignment
+
+Artigo encontrado: cao-etal-2024-introducing (Ano: 2024)
+  Título: Introducing {G}en{C}eption for Multimodal {LLM} Benchmarking: You May Bypass Annotations
+
+Artigo encontrado: chhun-etal-2024-language (Ano: 2024)
+  Título: Do Language Models Enjoy Their Own Stories? Prompting Large Language Models for Automatic Story Evaluation
+
+Artigo encontrado: regan-etal-2024-massive (Ano: 2024)
+  Título: {MASSIVE} Multilingual {A}bstract {M}eaning {R}epresentation: A Dataset and Baselines for Hallucination Detection
+
+Artigo encontrado: abburi-etal-2024-deloitte (Ano: 2024)
+  Título: Deloitte at {\#}{SMM}4{H} 2024: Can {GPT}-4 Detect {COVID}-19 Tweets Annotated by Itself?
+
+Artigo encontrado: chaudhary-etal-2024-brainstorm (Ano: 2024)
+  Título: {B}rain{S}torm @ i{REL} at {\#}{SMM}4{H} 2024: Leveraging Translation and Topical Embeddings for Annotation Detection in Tweets
+
+Artigo encontrado: yusuf-etal-2024-712fortask7 (Ano: 2024)
+  Título: 712for{T}ask7 at {\#}{SMM}4{H} 2024 Task 7: Classifying {S}panish Tweets Annotated by Humans versus Machines with {BETO} Models
+
+Artigo encontrado: deng-etal-2024-holistic (Ano: 2024)
+  Título: Holistic Exploration on Universal Decompositional Semantic Parsing: Architecture, Data Augmentation, and {LLM} Paradigm
+
+Artigo encontrado: hewett-etal-2024-elaborative (Ano: 2024)
+  Título: Elaborative Simplification for {G}erman-Language Texts
+
+Artigo encontrado: perkoff-etal-2024-keep (Ano: 2024)
+  Título: ``Keep up the good work!'': Using Constraints in Zero Shot Prompting to Generate Supportive Teacher Responses
+
+Artigo encontrado: hemanthage-etal-2024-divide (Ano: 2024)
+  Título: Divide and Conquer: Rethinking Ambiguous Candidate Identification in Multimodal Dialogues with Pseudo-Labelling
+
+Artigo encontrado: pilan-etal-2024-conversational (Ano: 2024)
+  Título: Conversational Feedback in Scripted versus Spontaneous Dialogues: A Comparative Analysis
+
+Artigo encontrado: das-srihari-2024-compos (Ano: 2024)
+  Título: Compos Mentis at {S}em{E}val2024 Task6: A Multi-Faceted Role-based Large Language Model Ensemble to Detect Hallucination
+
+Artigo encontrado: plaza-del-arco-etal-2024-wisdom (Ano: 2024)
+  Título: Wisdom of Instruction-Tuned Language Model Crowds. Exploring Model Label Variation
+
+Artigo encontrado: pavlovic-poesio-2024-effectiveness (Ano: 2024)
+  Título: The Effectiveness of {LLM}s as Annotators: A Comparative Overview and Empirical Analysis of Direct Representation
+
+Artigo encontrado: pangakis-wolken-2024-knowledge (Ano: 2024)
+  Título: Knowledge Distillation in Automated Annotation: Supervised Text Classification with {LLM}-Generated Training Labels
+
+Artigo encontrado: magron-etal-2024-jobskape (Ano: 2024)
+  Título: {J}ob{S}kape: A Framework for Generating Synthetic Job Postings to Enhance Skill Matching
+
+Artigo encontrado: xu-etal-2024-hr (Ano: 2024)
+  Título: {HR}-{M}ulti{WOZ}: A Task Oriented Dialogue ({TOD}) Dataset for {HR} {LLM} Agent
+
+Artigo encontrado: henriksson-etal-2024-discrete (Ano: 2024)
+  Título: From Discrete to Continuous Classes: A Situational Analysis of Multilingual Web Registers with {LLM} Annotations
+
+Artigo encontrado: hou-2024-mitigating (Ano: 2024)
+  Título: Mitigating Biases to Embrace Diversity: A Comprehensive Annotation Benchmark for Toxic Language
+
+Artigo encontrado: mervaala-kousa-2024-order (Ano: 2024)
+  Título: Order Up! Micromanaging Inconsistencies in {C}hat{GPT}-4o Text Analyses
+
+Artigo encontrado: mendonca-etal-2024-benchmarking (Ano: 2024)
+  Título: On the Benchmarking of {LLM}s for Open-Domain Dialogue Evaluation
+
+Artigo encontrado: xie-etal-2024-clc (Ano: 2024)
+  Título: The {CLC}-{UKET} Dataset: Benchmarking Case Outcome Prediction for the {UK} Employment Tribunal
+
+Artigo encontrado: luo-etal-2024-open (Ano: 2024)
+  Título: Open Event Causality Extraction by the Assistance of {LLM} in Task Annotation, Dataset, and Method
+
+Artigo encontrado: lee-etal-2024-effective (Ano: 2024)
+  Título: Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries
+
+Artigo encontrado: chen-etal-2024-iteralign (Ano: 2024)
+  Título: {I}ter{A}lign: Iterative Constitutional Alignment of Large Language Models
+
+Artigo encontrado: nath-etal-2024-okay (Ano: 2024)
+  Título: Okay, Let{'}s Do This! Modeling Event Coreference with Generated Rationales and Knowledge Distillation
+
+Artigo encontrado: lee-etal-2024-exploring-cross (Ano: 2024)
+  Título: Exploring Cross-Cultural Differences in {E}nglish Hate Speech Annotations: From Dataset Construction to Analysis
+
+Artigo encontrado: tang-etal-2024-tofueval (Ano: 2024)
+  Título: {T}ofu{E}val: Evaluating Hallucinations of {LLM}s on Topic-Focused Dialogue Summarization
+
+Artigo encontrado: zhang-etal-2024-moka (Ano: 2024)
+  Título: {MOKA}: Moral Knowledge Augmentation for Moral Event Extraction
+
+Artigo encontrado: xiong-etal-2024-effective (Ano: 2024)
+  Título: Effective Long-Context Scaling of Foundation Models
+
+Artigo encontrado: liu-etal-2024-casa (Ano: 2024)
+  Título: {CASA}: Causality-driven Argument Sufficiency Assessment
+
+Artigo encontrado: gonzalez-gutierrez-quattoni-2024-leveraging (Ano: 2024)
+  Título: Leveraging the Structure of Pre-trained Embeddings to Minimize Annotation Effort
+
+Artigo encontrado: hossain-etal-2024-misgendermender (Ano: 2024)
+  Título: {M}isgender{M}ender: A Community-Informed Approach to Interventions for Misgendering
+
+Artigo encontrado: zhuang-etal-2024-automatic (Ano: 2024)
+  Título: Automatic, Meta and Human Evaluation for Multimodal Summarization with Multimodal Output
+
+Artigo encontrado: ruan-etal-2024-defining (Ano: 2024)
+  Título: Defining and Detecting Vulnerability in Human Evaluation Guidelines: A Preliminary Study Towards Reliable {NLG} Evaluation
+
+Artigo encontrado: xia-etal-2024-hallucination (Ano: 2024)
+  Título: Hallucination Diversity-Aware Active Learning for Text Summarization
+
+Artigo encontrado: xie-etal-2024-self (Ano: 2024)
+  Título: Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models
+
+Artigo encontrado: dhole-etal-2024-queryexplorer (Ano: 2024)
+  Título: {Q}uery{E}xplorer: An Interactive Query Generation Assistant for Search and Exploration
+
+Artigo encontrado: he-etal-2024-annollm (Ano: 2024)
+  Título: {A}nno{LLM}: Making Large Language Models to Be Better Crowdsourced Annotators
+
+Artigo encontrado: dev-etal-2024-approach (Ano: 2024)
+  Título: An Approach to Co-reference Resolution and Formula Grounding for Mathematical Identifiers Using Large Language Models
+
+Artigo encontrado: bothwell-etal-2024-nostra (Ano: 2024)
+  Título: Nostra Domina at {E}va{L}atin 2024: Improving {L}atin Polarity Detection through Data Augmentation
+
+Artigo encontrado: dorkin-sirts-2024-tartunlp-evalatin (Ano: 2024)
+  Título: {T}artu{NLP} at {E}va{L}atin 2024: Emotion Polarity Detection
+
+Artigo encontrado: xu-etal-2024-adaptive (Ano: 2024)
+  Título: Adaptive Reinforcement Tuning Language Models as Hard Data Generators for Sentence Representation
+
+Artigo encontrado: negi-etal-2024-hybrid (Ano: 2024)
+  Título: A Hybrid Approach to Aspect Based Sentiment Analysis Using Transfer Learning
+
+Artigo encontrado: pensa-etal-2024-multi (Ano: 2024)
+  Título: A Multi-layered Approach to Physical Commonsense Understanding: Creation and Evaluation of an {I}talian Dataset
+
+Artigo encontrado: bizzaro-etal-2024-annotation (Ano: 2024)
+  Título: Annotation and Classification of Relevant Clauses in Terms-and-Conditions Contracts
+
+Artigo encontrado: he-etal-2024-bp4er (Ano: 2024)
+  Título: {BP}4{ER}: Bootstrap Prompting for Explicit Reasoning in Medical Dialogue Generation
+
+Artigo encontrado: hasanain-etal-2024-gpt (Ano: 2024)
+  Título: Can {GPT}-4 Identify Propaganda? Annotation and Detection of Propaganda Spans in News Articles
+
+Artigo encontrado: koneru-etal-2024-large (Ano: 2024)
+  Título: Can Large Language Models Discern Evidence for Scientific Hypotheses? Case Studies in the Social Sciences
+
+Artigo encontrado: kim-etal-2024-click (Ano: 2024)
+  Título: {CLI}c{K}: A Benchmark Dataset of Cultural and Linguistic Intelligence in {K}orean
+
+Artigo encontrado: wei-etal-2024-collabkg (Ano: 2024)
+  Título: {C}ollab{KG}: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction
+
+Artigo encontrado: goren-strapparava-2024-context (Ano: 2024)
+  Título: Context Matters: Enhancing Metaphor Recognition in Proverbs
+
+Artigo encontrado: sun-etal-2024-eliciting (Ano: 2024)
+  Título: Eliciting Motivational Interviewing Skill Codes in Psychotherapy with {LLM}s: A Bilingual Dataset and Analytical Study
+
+Artigo encontrado: kan-etal-2024-emancipating (Ano: 2024)
+  Título: Emancipating Event Extraction from the Constraints of Long-Tailed Distribution Data Utilizing Large Language Models
+
+Artigo encontrado: fan-etal-2024-evaluating (Ano: 2024)
+  Título: Evaluating Generative Language Models in Information Extraction as Subjective Question Correction
+
+Artigo encontrado: fu-etal-2024-extracting (Ano: 2024)
+  Título: Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods
+
+Artigo encontrado: chen-etal-2024-factorized (Ano: 2024)
+  Título: Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation
+
+Artigo encontrado: zaghir-etal-2024-frasimed (Ano: 2024)
+  Título: {FRASIMED}: A Clinical {F}rench Annotated Resource Produced through Crosslingual {BERT}-Based Annotation Projection
+
+Artigo encontrado: lopez-cortez-etal-2024-gmeg (Ano: 2024)
+  Título: {GMEG}-{EXP}: A Dataset of Human- and {LLM}-Generated Explanations of Grammatical and Fluency Edits
+
+Artigo encontrado: yarlott-etal-2024-golem (Ano: 2024)
+  Título: {GOLEM}: {GO}ld Standard for Learning and Evaluation of Motifs
+
+Artigo encontrado: jin-etal-2024-gpt (Ano: 2024)
+  Título: {GPT}-{H}ate{C}heck: Can {LLM}s Write Better Functional Tests for Hate Speech Detection?
+
+Artigo encontrado: ishii-etal-2024-jemhopqa (Ano: 2024)
+  Título: {JEMH}op{QA}: Dataset for {J}apanese Explainable Multi-Hop Question Answering
+
+Artigo encontrado: fan-etal-2024-lanid (Ano: 2024)
+  Título: {LANID}: {LLM}-assisted New Intent Discovery
+
+Artigo encontrado: aguda-etal-2024-large (Ano: 2024)
+  Título: Large Language Models as Financial Data Annotators: A Study on Effectiveness and Efficiency
+
+Artigo encontrado: ahmed-etal-2024-linear (Ano: 2024)
+  Título: Linear Cross-document Event Coreference Resolution with {X}-{AMR}
+
+Artigo encontrado: liang-etal-2024-mint (Ano: 2024)
+  Título: {M}in{T}: Boosting Generalization in Mathematical Reasoning via Multi-view Fine-tuning
+
+Artigo encontrado: sun-etal-2024-multi (Ano: 2024)
+  Título: Multi-Objective Forward Reasoning and Multi-Reward Backward Refinement for Product Review Summarization
+
+Artigo encontrado: zhu-etal-2024-quite (Ano: 2024)
+  Título: Quite Good, but Not Enough: Nationality Bias in Large Language Models - a Case Study of {C}hat{GPT}
+
+Artigo encontrado: hu-etal-2024-rankprompt (Ano: 2024)
+  Título: {R}ank{P}rompt: Step-by-Step Comparisons Make Language Models Better Reasoners
+
+Artigo encontrado: sun-etal-2024-rapidly (Ano: 2024)
+  Título: Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on {J}apanese
+
+Artigo encontrado: chen-si-2024-reflections (Ano: 2024)
+  Título: Reflections {\&} Resonance: Two-Agent Partnership for Advancing {LLM}-based Story Annotation
+
+Artigo encontrado: song-etal-2024-scaling (Ano: 2024)
+  Título: Scaling Data Diversity for Fine-Tuning Language Models in Human Alignment
+
+Artigo encontrado: amorim-etal-2024-text2story (Ano: 2024)
+  Título: text2story: A Python Toolkit to Extract and Visualize Story Components of Narrative Text
+
+Artigo encontrado: li-etal-2024-unlocking (Ano: 2024)
+  Título: Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction
+
+Artigo encontrado: ghinassi-etal-2024-cohesion (Ano: 2024)
+  Título: When Cohesion Lies in the Embedding Space: Embedding-Based Reference-Free Metrics for Topic Segmentation
+
+Artigo encontrado: zhang-etal-2024-xatu (Ano: 2024)
+  Título: {XATU}: A Fine-grained Instruction-based Benchmark for Explainable Text Updates
+
+Artigo encontrado: lapesa-etal-2024-mining (Ano: 2024)
+  Título: Mining, Assessing, and Improving Arguments in {NLP} and the Social Sciences
+
+Artigo encontrado: pertsas-etal-2024-annotated (Ano: 2024)
+  Título: An Annotated Dataset for Transformer-based Scholarly Information Extraction and Linguistic Linked Data Generation
+
+Artigo encontrado: battisti-ebling-2024-automatic (Ano: 2024)
+  Título: Automatic Annotation Elaboration as Feedback to Sign Language Learners
+
+Artigo encontrado: rouzegar-makrehchi-2024-enhancing (Ano: 2024)
+  Título: Enhancing Text Classification through {LLM}-Driven Active Learning and Human Annotation
+
+Artigo encontrado: ronningstad-etal-2024-gpt (Ano: 2024)
+  Título: A {GPT} among Annotators: {LLM}-based Entity-Level Sentiment Annotation
+
+Artigo encontrado: weber-etal-2024-donkii (Ano: 2024)
+  Título: Donkii: Characterizing and Detecting Errors in Instruction-Tuning Datasets
+
+Artigo encontrado: hicke-mimno-2024-lions (Ano: 2024)
+  Título: {[Lions: 1]} and {[Tigers: 2]} and {[Bears: 3]}, Oh My! Literary Coreference Annotation with {LLM}s
+
+Artigo encontrado: balepur-rudinger-2024-large (Ano: 2024)
+  Título: Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?
+
+Artigo encontrado: liang-etal-2024-learning (Ano: 2024)
+  Título: Learning to Trust Your Feelings: Leveraging Self-awareness in {LLM}s for Hallucination Mitigation
+
+Artigo encontrado: devanathan-etal-2024-paradox (Ano: 2024)
+  Título: The Paradox of Preference: A Study on {LLM} Alignment Algorithms and Data Acquisition Methods
+
+Artigo encontrado: nguyen-etal-2024-ceval-benchmark (Ano: 2024)
+  Título: {CE}val: A Benchmark for Evaluating Counterfactual Text Generation
+
+Artigo encontrado: huidrom-etal-2024-differences-semantic (Ano: 2024)
+  Título: Differences in Semantic Errors Made by Different Types of Data-to-text Systems
+
+Artigo encontrado: rigouts-terryn-de-lhoneux-2024-exploratory (Ano: 2024)
+  Título: Exploratory Study on the Impact of {E}nglish Bias of Generative Large Language Models in {D}utch and {F}rench
+
+Artigo encontrado: hasan-etal-2024-llm (Ano: 2024)
+  Título: {LLM}-{GE}m: Large Language Model-Guided Prediction of People{'}s Empathy Levels towards Newspaper Article
+
+Artigo encontrado: zhao-etal-2024-divknowqa (Ano: 2024)
+  Título: {DIVKNOWQA}: Assessing the Reasoning Ability of {LLM}s via Open-Domain Question Answering over Knowledge Base and Text
+
+Artigo encontrado: siro-etal-2024-context (Ano: 2024)
+  Título: Context Does Matter: Implications for Crowdsourced Evaluation Labels in Task-Oriented Dialogue Systems
+
+Artigo encontrado: mcknight-fyshe-2024-characterizing (Ano: 2024)
+  Título: Characterizing Human and Zero-Shot {GPT}-3.5 Object-Similarity Judgments
+
+Artigo encontrado: zhang-etal-2024-sentiment (Ano: 2024)
+  Título: Sentiment Analysis in the Era of Large Language Models: A Reality Check
+
+Artigo encontrado: ki-carpuat-2024-guiding (Ano: 2024)
+  Título: Guiding Large Language Models to Post-Edit Machine Translation with Error Annotations
+
+Artigo encontrado: naseem-etal-2024-grounded (Ano: 2024)
+  Título: A Grounded Preference Model for {LLM} Alignment
+
+Artigo encontrado: koo-etal-2024-benchmarking (Ano: 2024)
+  Título: Benchmarking Cognitive Biases in Large Language Models as Evaluators
+
+Artigo encontrado: lee-etal-2024-large (Ano: 2024)
+  Título: Large Language Models can Share Images, Too!
+
+Artigo encontrado: qu-etal-2024-unsupervised (Ano: 2024)
+  Título: Unsupervised Distractor Generation via Large Language Model Distilling and Counterfactual Contrastive Decoding
+
+Artigo encontrado: chen-etal-2024-u (Ano: 2024)
+  Título: Are {U} a Joke Master? Pun Generation via Multi-Stage Curriculum Learning towards a Humor {LLM}
+
+Artigo encontrado: liao-etal-2024-mario (Ano: 2024)
+  Título: {MARIO}: {MA}th Reasoning with code Interpreter Output - A Reproducible Pipeline
+
+Artigo encontrado: seo-etal-2024-kocommongen (Ano: 2024)
+  Título: {K}o{C}ommon{GEN} v2: A Benchmark for Navigating {K}orean Commonsense Reasoning Challenges in Large Language Models
+
+Artigo encontrado: zhang-etal-2024-comprehensive (Ano: 2024)
+  Título: Comprehensive Abstractive Comment Summarization with Dynamic Clustering and Chain of Thought
+
+Artigo encontrado: wang-etal-2024-chinese (Ano: 2024)
+  Título: A {C}hinese Dataset for Evaluating the Safeguards in Large Language Models
+
+Artigo encontrado: li-etal-2024-deveval (Ano: 2024)
+  Título: {D}ev{E}val: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories
+
+Artigo encontrado: cheng-etal-2024-adversarial (Ano: 2024)
+  Título: Adversarial Preference Optimization: Enhancing Your Alignment via {RM}-{LLM} Game
+
+Artigo encontrado: messina-etal-2024-extracting (Ano: 2024)
+  Título: Extracting and Encoding: Leveraging Large Language Models and Medical Knowledge to Enhance Radiological Text Representation
+
+Artigo encontrado: nigam-etal-2024-legal (Ano: 2024)
+  Título: Legal Judgment Reimagined: {P}red{E}x and the Rise of Intelligent {AI} Interpretation in {I}ndian Courts
+
+Artigo encontrado: zhang-etal-2024-elad (Ano: 2024)
+  Título: {ELAD}: Explanation-Guided Large Language Models Active Distillation
+
+Artigo encontrado: hu-etal-2024-teaching (Ano: 2024)
+  Título: Teaching Language Models to Self-Improve by Learning from Language Feedback
+
+Artigo encontrado: srivastava-etal-2024-instances (Ano: 2024)
+  Título: Instances Need More Care: Rewriting Prompts for Instances with {LLM}s in the Loop Yields Better Zero-Shot Performance
+
+Artigo encontrado: bhatt-etal-2024-experimental (Ano: 2024)
+  Título: An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models
+
+Artigo encontrado: chen-etal-2024-reinstruct (Ano: 2024)
+  Título: {REI}nstruct: Building Instruction Data from Unlabeled Corpus
+
+Artigo encontrado: quan-2024-dmoerm (Ano: 2024)
+  Título: {DM}o{ERM}: Recipes of Mixture-of-Experts for Effective Reward Modeling
+
+Artigo encontrado: fonseca-cohen-2024-large (Ano: 2024)
+  Título: Can Large Language Models Follow Concept Annotation Guidelines? A Case Study on Scientific and Financial Domains
+
+Artigo encontrado: kamruzzaman-etal-2024-investigating (Ano: 2024)
+  Título: Investigating Subtler Biases in {LLM}s: Ageism, Beauty, Institutional, and Nationality Bias in Generative Models
+
+Artigo encontrado: li-etal-2024-textbind (Ano: 2024)
+  Título: {T}ext{B}ind: Multi-turn Interleaved Multimodal Instruction-following in the Wild
+
+Artigo encontrado: jiang-etal-2024-enhancing (Ano: 2024)
+  Título: Enhancing Cross Text-Molecule Learning by Self-Augmentation
+
+Artigo encontrado: santoso-etal-2024-pushing (Ano: 2024)
+  Título: Pushing the Limits of Low-Resource {NER} Using {LLM} Artificial Data Generation
+
+Artigo encontrado: chen-etal-2024-fastgas (Ano: 2024)
+  Título: {F}ast{GAS}: Fast Graph-based Annotation Selection for In-Context Learning
+
+Artigo encontrado: phukan-etal-2024-peering (Ano: 2024)
+  Título: Peering into the Mind of Language Models: An Approach for Attribution in Contextual Question Answering
+
+Artigo encontrado: liu-etal-2024-instruction (Ano: 2024)
+  Título: Instruction Position Matters in Sequence Generation with Large Language Models
+
+Artigo encontrado: yu-etal-2024-cmoraleval (Ano: 2024)
+  Título: {CM}oral{E}val: A Moral Evaluation Benchmark for {C}hinese Large Language Models
+
+Artigo encontrado: qin-etal-2024-infobench (Ano: 2024)
+  Título: {I}n{F}o{B}ench: Evaluating Instruction Following Ability in Large Language Models
+
+Artigo encontrado: khalighinejad-etal-2024-extracting (Ano: 2024)
+  Título: Extracting Polymer Nanocomposite Samples from Full-Length Documents
+
+Artigo encontrado: mao-etal-2024-champ (Ano: 2024)
+  Título: {CHAMP}: A Competition-level Dataset for Fine-Grained Analyses of {LLM}s' Mathematical Reasoning Capabilities
+
+Artigo encontrado: zhang-etal-2024-enhancing-hallucination (Ano: 2024)
+  Título: Enhancing Hallucination Detection through Perturbation-Based Synthetic Data Generation in System Responses
+
+Artigo encontrado: yang-etal-2024-large-language (Ano: 2024)
+  Título: Large Language Models for Automated Open-domain Scientific Hypotheses Discovery
+
+Artigo encontrado: martinez-lorenzo-etal-2024-mitigating (Ano: 2024)
+  Título: Mitigating Data Scarcity in Semantic Parsing across Languages with the Multilingual Semantic Layer and its Dataset
+
+Artigo encontrado: scire-etal-2024-fenice (Ano: 2024)
+  Título: {FENICE}: Factuality Evaluation of summarization based on Natural language Inference and Claim Extraction
+
+Artigo encontrado: su-etal-2024-unsupervised (Ano: 2024)
+  Título: Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models
+
+Artigo encontrado: li-etal-2024-enhanced (Ano: 2024)
+  Título: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data
+
+Artigo encontrado: abolghasemi-etal-2024-cause (Ano: 2024)
+  Título: {CAUSE}: Counterfactual Assessment of User Satisfaction Estimation in Task-Oriented Dialogue Systems
+
+Artigo encontrado: das-etal-2024-s3 (Ano: 2024)
+  Título: S3-{DST}: Structured Open-Domain Dialogue Segmentation and State Tracking in the Era of {LLM}s
+
+Artigo encontrado: xu-etal-2024-vision (Ano: 2024)
+  Título: Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning
+
+Artigo encontrado: hu-etal-2024-resemo (Ano: 2024)
+  Título: {RESEMO}: A Benchmark {C}hinese Dataset for Studying Responsive Emotion from Social Media Content
+
+Artigo encontrado: fan-etal-2024-reformatted (Ano: 2024)
+  Título: Reformatted Alignment
+
+Artigo encontrado: mao-etal-2024-rafe (Ano: 2024)
+  Título: {R}a{F}e: Ranking Feedback Improves Query Rewriting for {RAG}
+
+Artigo encontrado: wei-etal-2024-guided (Ano: 2024)
+  Título: Guided Knowledge Generation with Language Models for Commonsense Reasoning
+
+Artigo encontrado: kahl-etal-2024-llms (Ano: 2024)
+  Título: {LLM}s Cannot (Yet) Match the Specificity and Simplicity of Online Communities in Long Form Question Answering
+
+Artigo encontrado: xu-jiang-2024-multi (Ano: 2024)
+  Título: Multi-dimensional Evaluation of Empathetic Dialogue Responses
+
+Artigo encontrado: song-etal-2024-agentbank (Ano: 2024)
+  Título: {A}gent{B}ank: Towards Generalized {LLM} Agents via Fine-Tuning on 50000+ Interaction Trajectories
+
+Artigo encontrado: liang-etal-2024-self (Ano: 2024)
+  Título: Self-Renewal Prompt Optimizing with Implicit Reasoning
+
+Artigo encontrado: noriega-atala-etal-2024-happen (Ano: 2024)
+  Título: When and Where Did it Happen? An Encoder-Decoder Model to Identify Scenario Context
+
+Artigo encontrado: lee-etal-2024-unisumeval (Ano: 2024)
+  Título: {U}ni{S}um{E}val: Towards Unified, Fine-grained, Multi-dimensional Summarization Evaluation for {LLM}s
+
+Artigo encontrado: roemmele-gordon-2024-test (Ano: 2024)
+  Título: From Test-Taking to Test-Making: Examining {LLM} Authoring of Commonsense Assessment Items
+
+Artigo encontrado: ginn-etal-2024-teach (Ano: 2024)
+  Título: Can we teach language models to gloss endangered languages?
+
+Artigo encontrado: yang-etal-2024-linkage (Ano: 2024)
+  Título: {LINKAGE}: Listwise Ranking among Varied-Quality References for Non-Factoid {QA} Evaluation via {LLM}s
+
+Artigo encontrado: koksal-etal-2024-longform (Ano: 2024)
+  Título: {L}ong{F}orm: Effective Instruction Tuning with Reverse Instructions
+
+Artigo encontrado: giorgi-etal-2024-modeling (Ano: 2024)
+  Título: Modeling Human Subjectivity in {LLM}s Using Explicit and Implicit Human Factors in Personas
+
+Artigo encontrado: palmeira-ferraz-etal-2024-llm (Ano: 2024)
+  Título: {LLM} Self-Correction with {D}e{CRIM}: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints
+
+Artigo encontrado: wang-etal-2024-learning-plan (Ano: 2024)
+  Título: Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs
+
+Artigo encontrado: chen-etal-2024-step (Ano: 2024)
+  Título: Step-level Value Preference Optimization for Mathematical Reasoning
+
+Artigo encontrado: yang-etal-2024-exploring-capability (Ano: 2024)
+  Título: Exploring the Capability of Multimodal {LLM}s with Yonkoma Manga: The {YM}anga Dataset and Its Challenging Tasks
+
+Artigo encontrado: li-etal-2024-active (Ano: 2024)
+  Título: Active Learning for Abstractive Text Summarization via {LLM}-Determined Curriculum and Certainty Gain Maximization
+
+Artigo encontrado: govindarajan-etal-2024-mean (Ano: 2024)
+  Título: Do *they* mean `us'? Interpreting Referring Expression variation under Intergroup Bias
+
+Artigo encontrado: fang-etal-2024-understanding (Ano: 2024)
+  Título: Understanding Faithfulness and Reasoning of Large Language Models on Plain Biomedical Summaries
+
+Artigo encontrado: dong-etal-2024-llm (Ano: 2024)
+  Título: Can {LLM} be a Personalized Judge?
+
+Artigo encontrado: roy-etal-2024-learning (Ano: 2024)
+  Título: Learning When to Retrieve, What to Rewrite, and How to Respond in Conversational {QA}
+
+Artigo encontrado: chen-etal-2024-beyond-single (Ano: 2024)
+  Título: Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models
+
+Artigo encontrado: li-etal-2024-maven (Ano: 2024)
+  Título: {MAVEN}-{FACT}: A Large-scale Event Factuality Detection Dataset
+
+Artigo encontrado: mendonca-etal-2024-soda (Ano: 2024)
+  Título: Soda-Eval: Open-Domain Dialogue Evaluation in the age of {LLM}s
+
+Artigo encontrado: christ-etal-2024-mathwell (Ano: 2024)
+  Título: {MATHWELL}: Generating Educational Math Word Problems Using Teacher Annotations
+
+Artigo encontrado: zhang-etal-2024-android (Ano: 2024)
+  Título: Android in the Zoo: Chain-of-Action-Thought for {GUI} Agents
+
+Artigo encontrado: gallifant-etal-2024-language (Ano: 2024)
+  Título: Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks
+
+Artigo encontrado: shen-etal-2024-enhancing (Ano: 2024)
+  Título: Enhancing Discourse Dependency Parsing with Sentence Dependency Parsing: A Unified Generative Method Based on Code Representation
+
+Artigo encontrado: yao-etal-2024-benchmarking (Ano: 2024)
+  Título: Benchmarking Machine Translation with Cultural Awareness
+
+Artigo encontrado: sonkar-etal-2024-pedagogical (Ano: 2024)
+  Título: Pedagogical Alignment of Large Language Models
+
+Artigo encontrado: ziems-etal-2024-tower (Ano: 2024)
+  Título: {TOWER}: Tree Organized Weighting for Evaluating Complex Instructions
+
+Artigo encontrado: wang-etal-2024-factcheck (Ano: 2024)
+  Título: Factcheck-Bench: Fine-Grained Evaluation Benchmark for Automatic Fact-checkers
+
+Artigo encontrado: moskovskiy-etal-2024-llms (Ano: 2024)
+  Título: {LLM}s to Replace Crowdsourcing For Parallel Data Creation? The Case of Text Detoxification
+
+Artigo encontrado: chen-etal-2024-seeing (Ano: 2024)
+  Título: ``Seeing the Big through the Small'': Can {LLM}s Approximate Human Judgment Distributions on {NLI} from a Few Explanations?
+
+Artigo encontrado: hasanain-etal-2024-large (Ano: 2024)
+  Título: Large Language Models for Propaganda Span Annotation
+
+Artigo encontrado: peper-etal-2024-shoes (Ano: 2024)
+  Título: Shoes-{ACOSI}: A Dataset for Aspect-Based Sentiment Analysis with Implicit Opinion Extraction
+
+Artigo encontrado: walsh-etal-2024-sonnet (Ano: 2024)
+  Título: Sonnet or Not, Bot? Poetry Evaluation for Large Models and Datasets
+
+Artigo encontrado: huang-etal-2024-less (Ano: 2024)
+  Título: Less is More: Making Smaller Language Models Competent Subgraph Retrievers for Multi-hop {KGQA}
+
+Artigo encontrado: spangher-etal-2024-explaining (Ano: 2024)
+  Título: Explaining Mixtures of Sources in News Articles
+
+Artigo encontrado: lan-etal-2024-multi (Ano: 2024)
+  Título: Multi-label Sequential Sentence Classification via Large Language Model
+
+Artigo encontrado: fayyazsanavi-etal-2024-gloss2text (Ano: 2024)
+  Título: {G}loss2{T}ext: Sign Language Gloss translation using {LLM}s and Semantically Aware Label Smoothing
+
+Artigo encontrado: han-etal-2024-p (Ano: 2024)
+  Título: {P}-{FOLIO}: Evaluating and Improving Logical Reasoning with Abundant Human-Written Reasoning Chains
+
+Artigo encontrado: majer-snajder-2024-claim (Ano: 2024)
+  Título: Claim Check-Worthiness Detection: How Well do {LLM}s Grasp Annotation Guidelines?
+
+Artigo encontrado: choi-etal-2024-multi-news (Ano: 2024)
+  Título: Multi-News+: Cost-efficient Dataset Cleansing via {LLM}-based Data Annotation
+
+Artigo encontrado: jiao-etal-2024-learning (Ano: 2024)
+  Título: Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing
+
+Artigo encontrado: tan-etal-2024-large (Ano: 2024)
+  Título: Large Language Models for Data Annotation and Synthesis: A Survey
+
+Artigo encontrado: shen-etal-2024-heart (Ano: 2024)
+  Título: {HEART}-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with {LLM}s
+
+Artigo encontrado: xing-etal-2024-efuf (Ano: 2024)
+  Título: {EFUF}: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models
+
+Artigo encontrado: wang-etal-2024-effective (Ano: 2024)
+  Título: Effective Demonstration Annotation for In-Context Learning via Language Model-Based Determinantal Point Process
+
+Artigo encontrado: zhao-etal-2024-decoratelm (Ano: 2024)
+  Título: {D}ecorate{LM}: Data Engineering through Corpus Rating, Tagging, and Editing with Language Models
+
+Artigo encontrado: li-etal-2024-optimizing (Ano: 2024)
+  Título: Optimizing Code Retrieval: High-Quality and Scalable Dataset Annotation through Large Language Models
+
+Artigo encontrado: geigle-etal-2024-african (Ano: 2024)
+  Título: {A}frican or {E}uropean Swallow? Benchmarking Large Vision-Language Models for Fine-Grained Object Classification
+
+Artigo encontrado: kim-etal-2024-dockd (Ano: 2024)
+  Título: {D}oc{KD}: Knowledge Distillation from {LLM}s for Open-World Document Understanding Models
+
+Artigo encontrado: wang-etal-2024-user (Ano: 2024)
+  Título: A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models
+
+Artigo encontrado: qian-etal-2024-large (Ano: 2024)
+  Título: What do Large Language Models Need for Machine Translation Evaluation?
+
+Artigo encontrado: peng-etal-2024-incubating (Ano: 2024)
+  Título: Incubating Text Classifiers Following User Instruction with Nothing but {LLM}
+
+Artigo encontrado: huang-etal-2024-advancing (Ano: 2024)
+  Título: Advancing Large Language Model Attribution through Self-Improving
+
+Artigo encontrado: zhou-etal-2024-llm-feature (Ano: 2024)
+  Título: An {LLM} Feature-based Framework for Dialogue Constructiveness Assessment
+
+Artigo encontrado: liu-etal-2024-nlebench (Ano: 2024)
+  Título: {NLEB}ench+{N}or{GLM}: A Comprehensive Empirical Analysis and Benchmark Dataset for Generative Language Models in {N}orwegian
+
+Artigo encontrado: kostikova-etal-2024-fine (Ano: 2024)
+  Título: Fine-Grained Detection of Solidarity for Women and Migrants in 155 Years of {G}erman Parliamentary Debates
+
+Artigo encontrado: chen-etal-2024-towards-injecting (Ano: 2024)
+  Título: Towards Injecting Medical Visual Knowledge into Multimodal {LLM}s at Scale
+
+Artigo encontrado: king-flanigan-2024-unsupervised (Ano: 2024)
+  Título: Unsupervised End-to-End Task-Oriented Dialogue with {LLM}s: The Power of the Noisy Channel
+
+Artigo encontrado: chen-etal-2024-humans (Ano: 2024)
+  Título: Humans or {LLM}s as the Judge? A Study on Judgement Bias
+
+Artigo encontrado: chang-etal-2024-postmark (Ano: 2024)
+  Título: {P}ost{M}ark: A Robust Blackbox Watermark for Large Language Models
+
+Artigo encontrado: taneja-goel-2024-active (Ano: 2024)
+  Título: Can Active Label Correction Improve {LLM}-based Modular {AI} Systems?
+
+Artigo encontrado: movva-etal-2024-annotation (Ano: 2024)
+  Título: Annotation alignment: Comparing {LLM} and human annotations of conversational safety
+
+Artigo encontrado: wang-etal-2024-efficient (Ano: 2024)
+  Título: Efficient Temporal Extrapolation of Multimodal Large Language Models with Temporal Grounding Bridge
+
+Artigo encontrado: subbiah-etal-2024-storysumm (Ano: 2024)
+  Título: {STORYSUMM}: Evaluating Faithfulness in Story Summarization
+
+Artigo encontrado: ye-etal-2024-globesumm (Ano: 2024)
+  Título: {G}lobe{S}umm: A Challenging Benchmark Towards Unifying Multi-lingual, Cross-lingual and Multi-document News Summarization
+
+Artigo encontrado: bhan-etal-2024-self (Ano: 2024)
+  Título: Self-{AMPLIFY}: Improving Small Language Models with Self Post Hoc Explanations
+
+Artigo encontrado: yuan-etal-2024-unlocking (Ano: 2024)
+  Título: Unlocking Markets: A Multilingual Benchmark to Cross-Market Question Answering
+
+Artigo encontrado: zhang-etal-2024-toolbehonest (Ano: 2024)
+  Título: {T}ool{B}e{H}onest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models
+
+Artigo encontrado: sundar-etal-2024-major (Ano: 2024)
+  Título: Major Entity Identification: A Generalizable Alternative to Coreference Resolution
+
+Artigo encontrado: bogdanov-etal-2024-nuner (Ano: 2024)
+  Título: {N}u{NER}: Entity Recognition Encoder Pre-training via {LLM}-Annotated Data
+
+Artigo encontrado: shea-etal-2024-ace (Ano: 2024)
+  Título: {ACE}: A {LLM}-based Negotiation Coaching System
+
+Artigo encontrado: ranjit-etal-2024-oath (Ano: 2024)
+  Título: {OATH}-Frames: Characterizing Online Attitudes Towards Homelessness with {LLM} Assistants
+
+Artigo encontrado: zhang-etal-2024-scier (Ano: 2024)
+  Título: {S}ci{ER}: An Entity and Relation Extraction Dataset for Datasets, Methods, and Tasks in Scientific Documents
+
+Artigo encontrado: zhou-etal-2024-grasping (Ano: 2024)
+  Título: Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction
+
+Artigo encontrado: feng-etal-2024-ladder (Ano: 2024)
+  Título: Ladder: A Model-Agnostic Framework Boosting {LLM}-based Machine Translation to the Next Level
+
+Artigo encontrado: lin-etal-2024-dogerm (Ano: 2024)
+  Título: {D}oge{RM}: Equipping Reward Models with Domain Knowledge through Model Merging
+
+Artigo encontrado: li-2024-human (Ano: 2024)
+  Título: Human-{LLM} Hybrid Text Answer Aggregation for Crowd Annotations
+
+Artigo encontrado: zhao-etal-2024-esc (Ano: 2024)
+  Título: {ESC}-Eval: Evaluating Emotion Support Conversations in Large Language Models
+
+Artigo encontrado: masud-etal-2024-hate (Ano: 2024)
+  Título: Hate Personified: Investigating the role of {LLM}s in content moderation
+
+Artigo encontrado: hu-etal-2024-themis (Ano: 2024)
+  Título: Themis: A Reference-free {NLG} Evaluation Language Model with Flexibility and Interpretability
+
+Artigo encontrado: jiang-xu-2024-medreadme (Ano: 2024)
+  Título: {M}ed{R}ead{M}e: A Systematic Study for Fine-grained Sentence Readability in Medical Domain
+
+Artigo encontrado: lee-etal-2024-mentor (Ano: 2024)
+  Título: Mentor-{KD}: Making Small Language Models Better Multi-step Reasoners
+
+Artigo encontrado: tian-etal-2024-large-language (Ano: 2024)
+  Título: Are Large Language Models Capable of Generating Human-Level Narratives?
+
+Artigo encontrado: merdjanovska-etal-2024-noisebench (Ano: 2024)
+  Título: {N}oise{B}ench: Benchmarking the Impact of Real Label Noise on Named Entity Recognition
+
+Artigo encontrado: islam-etal-2024-datanarrative (Ano: 2024)
+  Título: {D}ata{N}arrative: Automated Data-Driven Storytelling with Visualizations and Texts
+
+Artigo encontrado: park-caragea-2024-verifymatch (Ano: 2024)
+  Título: {V}erify{M}atch: A Semi-Supervised Learning Paradigm for Natural Language Inference with Confidence-Aware {M}ix{U}p
+
+Artigo encontrado: mire-etal-2024-empirical (Ano: 2024)
+  Título: The Empirical Variability of Narrative Perceptions of Social Media Texts
+
+Artigo encontrado: mishra-etal-2024-synfac (Ano: 2024)
+  Título: {SYNFAC}-{EDIT}: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization
+
+Artigo encontrado: weber-etal-2024-investigating (Ano: 2024)
+  Título: Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?
+
+Artigo encontrado: mavromatis-etal-2024-covericl (Ano: 2024)
+  Título: {C}over{ICL}: Selective Annotation for In-Context Learning via Active Graph Coverage
+
+Artigo encontrado: singla-etal-2024-dynamic (Ano: 2024)
+  Título: Dynamic Rewarding with Prompt Optimization Enables Tuning-free Self-Alignment of Language Models
+
+Artigo encontrado: han-etal-2024-folio (Ano: 2024)
+  Título: {FOLIO}: Natural Language Reasoning with First-Order Logic
+
+Artigo encontrado: liu-etal-2024-mibench (Ano: 2024)
+  Título: {MIB}ench: Evaluating Multimodal Large Language Models over Multiple Images
+
+Artigo encontrado: gu-etal-2024-tail (Ano: 2024)
+  Título: {TAIL}: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation
+
+Artigo encontrado: ju-etal-2024-globe (Ano: 2024)
+  Título: To the Globe ({TTG}): Towards Language-Driven Guaranteed Travel Planning
+
+Artigo encontrado: ramos-etal-2024-aligning (Ano: 2024)
+  Título: Aligning Neural Machine Translation Models: Human Feedback in Training and Inference
+
+Artigo encontrado: uguet-etal-2024-llms (Ano: 2024)
+  Título: {LLM}s in Post-Translation Workflows: Comparing Performance in Post-Editing and Error Analysis
+
+Artigo encontrado: meng-etal-2024-cean (Ano: 2024)
+  Título: {CEAN}: Contrastive Event Aggregation Network with {LLM}-based Augmentation for Event Extraction
+
+Artigo encontrado: kulkarni-etal-2024-synthdst (Ano: 2024)
+  Título: {S}ynth{DST}: Synthetic Data is All You Need for Few-Shot Dialog State Tracking
+
+Artigo encontrado: van-der-meer-etal-2024-empirical (Ano: 2024)
+  Título: An Empirical Analysis of Diversity in Argument Summarization
+
+Artigo encontrado: lin-zeldes-2024-gumsley (Ano: 2024)
+  Título: {GUM}sley: Evaluating Entity Salience in Summarization for 12 {E}nglish Genres
+
+Artigo encontrado: beck-etal-2024-sensitivity (Ano: 2024)
+  Título: Sensitivity, Performance, Robustness: Deconstructing the Effect of Sociodemographic Prompting
+
+Artigo encontrado: dong-etal-2024-syntactic (Ano: 2024)
+  Título: Syntactic Preposing and Discourse Relations
+
+Artigo encontrado: ramprasad-etal-2024-evaluating (Ano: 2024)
+  Título: Evaluating the Factuality of Zero-shot Summarizers Across Varied Domains
+
+Artigo encontrado: es-etal-2024-ragas (Ano: 2024)
+  Título: {RAGA}s: Automated Evaluation of Retrieval Augmented Generation
+
+Artigo encontrado: kim-etal-2024-meganno (Ano: 2024)
+  Título: {MEGA}nno+: A Human-{LLM} Collaborative Annotation System
+
+Artigo encontrado: bozkurt-2024-thesis (Ano: 2024)
+  Título: A Thesis Proposal {C}laim{I}nspector Framework: A Hybrid Approach to Data Annotation using Fact-Checked Claims and {LLM}s
+
+Artigo encontrado: bonn-etal-2024-adjudicating (Ano: 2024)
+  Título: Adjudicating {LLM}s as {P}rop{B}ank Adjudicators
+
+Artigo encontrado: sun-etal-2024-chinese (Ano: 2024)
+  Título: {C}hinese {UMR} annotation: Can {LLM}s help?
+
+Artigo encontrado: behrendt-etal-2024-aqua (Ano: 2024)
+  Título: {AQ}u{A} {--} Combining Experts' and Non-Experts' Views To Assess Deliberation Quality in Online Discussions Using {LLM}s
+
+Artigo encontrado: hamerlik-etal-2024-chatgpt (Ano: 2024)
+  Título: {C}hat{GPT} as Your n-th Annotator: Experiments in Leveraging Large Language Models for Social Science Text Annotation in {S}lovak Language
+
+Artigo encontrado: pham-etal-2024-multi (Ano: 2024)
+  Título: Multi-Cultural Norm Base: Frame-based Norm Discovery in Multi-Cultural Settings
+
+Artigo encontrado: de-deyne-etal-2024-gpt (Ano: 2024)
+  Título: Can {GPT}-4 Recover Latent Semantic Relational Information from Word Associations? A Detailed Analysis of Agreement with Human-annotated Semantic Ontologies.
+
+Artigo encontrado: godunova-voloshina-2024-probing (Ano: 2024)
+  Título: Probing of pretrained multilingual models on the knowledge of discourse
+
+Artigo encontrado: miyakawa-etal-2024-llms (Ano: 2024)
+  Título: Do {LLM}s Agree with Humans on Emotional Associations to Nonsense Words?
+
+Artigo encontrado: bertolini-etal-2024-automatic (Ano: 2024)
+  Título: Automatic Annotation of Dream Report{'}s Emotional Content with Large Language Models
+
+Artigo encontrado: amara-etal-2024-large (Ano: 2024)
+  Título: Large Language Models Provide Human-Level Medical Text Snippet Labeling
+
+Artigo encontrado: yao-etal-2024-overview (Ano: 2024)
+  Título: Overview of the 2024 Shared Task on Chemotherapy Treatment Timeline Extraction
+
+Artigo encontrado: gandhi-etal-2024-challenges (Ano: 2024)
+  Título: Challenges in End-to-End Policy Extraction from Climate Action Plans
+
+Artigo encontrado: spokoyny-etal-2024-aligning (Ano: 2024)
+  Título: Aligning Unstructured {P}aris Agreement Climate Plans with Sustainable Development Goals
+
+Artigo encontrado: draetta-etal-2024-reclaim (Ano: 2024)
+  Título: {R}e{CLAIM} Project: Exploring {I}talian Slurs Reappropriation with Large Language Models
+
+Artigo encontrado: fioravanti-etal-2024-automatic (Ano: 2024)
+  Título: Automatic Error Detection: Comparing {AI} vs. Human Performance on {L}2 {I}talian Texts
+
+Artigo encontrado: guillen-pacho-etal-2024-vulnerable (Ano: 2024)
+  Título: The Vulnerable Identities Recognition Corpus ({VIRC}) for Hate Speech Analysis
+
+Artigo encontrado: basile-etal-2024-perseid (Ano: 2024)
+  Título: {PERSEID} - Perspectivist Irony Detection: A {CALAMITA} Challenge
+
+Artigo encontrado: maehlum-etal-2024-difficult (Ano: 2024)
+  Título: It{'}s Difficult to Be Neutral {--} Human and {LLM}-based Sentiment Annotation of Patient Comments
+
+Artigo encontrado: andrew-etal-2024-evaluating (Ano: 2024)
+  Título: Evaluating {LLM}s for Temporal Entity Extraction from Pediatric Clinical Text in Rare Diseases Context
+
+Artigo encontrado: ziems-etal-2024-large (Ano: 2024)
+  Título: Can Large Language Models Transform Computational Social Science?
+
+Artigo encontrado: zhiyu-etal-2024-enhancing (Ano: 2024)
+  Título: Enhancing Free-Form Table Question Answering Models by Distilling Relevant-Cell-Based Rationales
+
+Artigo encontrado: el-khettari-etal-2024-mention (Ano: 2024)
+  Título: Mention-Agnostic Information Extraction for Ontological Annotation of Biomedical Articles
+
+Artigo encontrado: pu-etal-2024-intervention (Ano: 2024)
+  Título: Intervention extraction in preclinical animal studies of {A}lzheimer{'}s Disease: Enhancing regex performance with language model-based filtering
+
+Artigo encontrado: sadiah-etal-2024-ceasefire (Ano: 2024)
+  Título: Ceasefire at {FIGNEWS} 2024 Shared Task: Automated Detection and Annotation of Media Bias Using Large Language Models
+
+Artigo encontrado: wang-etal-2024-videocot (Ano: 2024)
+  Título: {V}ideo{C}o{T}: A Video Chain-of-Thought Dataset with Active Annotation Tool
+
+Artigo encontrado: kodikara-verspoor-2024-lesser (Ano: 2024)
+  Título: Lesser the Shots, Higher the Hallucinations: Exploration of Genetic Information Extraction using Generative Large Language Models
+
+Artigo encontrado: xu-wang-2024-spor (Ano: 2024)
+  Título: {SPOR}: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation
+
+Artigo encontrado: wang-etal-2024-instructprotein (Ano: 2024)
+  Título: {I}nstruct{P}rotein: Aligning Human and Protein Language via Knowledge Instruction
+
+Artigo encontrado: diao-etal-2024-active (Ano: 2024)
+  Título: Active Prompting with Chain-of-Thought for Large Language Models
+
+Artigo encontrado: li-etal-2024-citation (Ano: 2024)
+  Título: Citation-Enhanced Generation for {LLM}-based Chatbots
+
+Artigo encontrado: li-etal-2024-dissecting (Ano: 2024)
+  Título: Dissecting Human and {LLM} Preferences
+
+Artigo encontrado: ni-etal-2024-afacta (Ano: 2024)
+  Título: {AF}a{CTA}: Assisting the Annotation of Factual Claim Detection with Reliable {LLM} Annotators
+
+Artigo encontrado: zhang-etal-2024-self (Ano: 2024)
+  Título: Self-Alignment for Factuality: Mitigating Hallucinations in {LLM}s via Self-Evaluation
+
+Artigo encontrado: he-etal-2024-olympiadbench (Ano: 2024)
+  Título: {O}lympiad{B}ench: A Challenging Benchmark for Promoting {AGI} with Olympiad-Level Bilingual Multimodal Scientific Problems
+
+Artigo encontrado: wang-etal-2024-maven (Ano: 2024)
+  Título: {MAVEN}-{ARG}: Completing the Puzzle of All-in-One Event Understanding Dataset with Event Argument Annotation
+
+Artigo encontrado: ruan-etal-2024-re3 (Ano: 2024)
+  Título: Re3: A Holistic Framework and Dataset for Modeling Collaborative Document Revision
+
+Artigo encontrado: gu-etal-2024-digital (Ano: 2024)
+  Título: Digital Socrates: Evaluating {LLM}s through Explanation Critiques
+
+Artigo encontrado: zhang-etal-2024-benchmarking-data (Ano: 2024)
+  Título: Benchmarking Data Science Agents
+
+Artigo encontrado: xu-etal-2024-fine (Ano: 2024)
+  Título: Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions
+
+Artigo encontrado: sabour-etal-2024-emobench (Ano: 2024)
+  Título: {E}mo{B}ench: Evaluating the Emotional Intelligence of Large Language Models
+
+Artigo encontrado: yang-etal-2024-harnessing (Ano: 2024)
+  Título: Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation
+
+Artigo encontrado: trung-etal-2024-reft (Ano: 2024)
+  Título: {R}e{FT}: Reasoning with Reinforced Fine-Tuning
+
+Artigo encontrado: ji-etal-2024-anah (Ano: 2024)
+  Título: {ANAH}: Analytical Annotation of Hallucinations in Large Language Models
+
+Artigo encontrado: niu-etal-2024-enhancing (Ano: 2024)
+  Título: Enhancing Dialogue State Tracking Models through {LLM}-backed User-Agents Simulation
+
+Artigo encontrado: zhuo-etal-2024-protllm (Ano: 2024)
+  Título: {P}rot{LLM}: An Interleaved Protein-Language {LLM} with Protein-as-Word Pre-Training
+
+Artigo encontrado: wang-etal-2024-math (Ano: 2024)
+  Título: Math-Shepherd: Verify and Reinforce {LLM}s Step-by-step without Human Annotations
+
+Artigo encontrado: yang-etal-2024-synchronized (Ano: 2024)
+  Título: Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline
+
+Artigo encontrado: hu-etal-2024-llm (Ano: 2024)
+  Título: Are {LLM}-based Evaluators Confusing {NLG} Quality Criteria?
+
+Artigo encontrado: hu-collier-2024-quantifying (Ano: 2024)
+  Título: Quantifying the Persona Effect in {LLM} Simulations
+
+Artigo encontrado: xiong-etal-2024-interactive (Ano: 2024)
+  Título: Interactive-{KBQA}: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models
+
+Artigo encontrado: niu-etal-2024-ragtruth (Ano: 2024)
+  Título: {RAGT}ruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models
+
+Artigo encontrado: tu-etal-2024-charactereval (Ano: 2024)
+  Título: {C}haracter{E}val: A {C}hinese Benchmark for Role-Playing Conversational Agent Evaluation
+
+Artigo encontrado: yin-etal-2024-agent (Ano: 2024)
+  Título: Agent Lumos: Unified and Modular Training for Open-Source Language Agents
+
+Artigo encontrado: ramprasad-etal-2024-analyzing (Ano: 2024)
+  Título: Analyzing {LLM} Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends
+
+Artigo encontrado: patil-etal-2024-refinesumm (Ano: 2024)
+  Título: {REFINESUMM}: Self-Refining {MLLM} for Generating a Multimodal Summarization Dataset
+
+Artigo encontrado: hashemi-etal-2024-llm (Ano: 2024)
+  Título: {LLM}-Rubric: A Multidimensional, Calibrated Approach to Automated Evaluation of Natural Language Texts
+
+Artigo encontrado: felkner-etal-2024-gpt (Ano: 2024)
+  Título: {GPT} is Not an Annotator: The Necessity of Human Annotation in Fairness Benchmark Construction
+
+Artigo encontrado: li-etal-2024-multi (Ano: 2024)
+  Título: Multi-modal Preference Alignment Remedies Degradation of Visual Instruction Tuning on Language Models
+
+Artigo encontrado: sharma-etal-2024-speech (Ano: 2024)
+  Título: Speech vs. Transcript: Does It Matter for Human Annotators in Speech Summarization?
+
+Artigo encontrado: ahmed-etal-2024-generating (Ano: 2024)
+  Título: Generating Harder Cross-document Event Coreference Resolution Datasets using Metaphoric Paraphrasing
+
+Artigo encontrado: bhutani-etal-2024-seegull (Ano: 2024)
+  Título: {S}ee{GULL} Multilingual: a Dataset of Geo-Culturally Situated Stereotypes
+
+Artigo encontrado: mathur-etal-2024-docpilot (Ano: 2024)
+  Título: {D}oc{P}ilot: Copilot for Automating {PDF} Edit Workflows in Documents
+
+Artigo encontrado: song-etal-2024-itake (Ano: 2024)
+  Título: {ITAKE}: Interactive Unstructured Text Annotation and Knowledge Extraction System with {LLM}s and {M}odel{O}ps
+
+Artigo encontrado: wang-etal-2024-rescue (Ano: 2024)
+  Título: Rescue: Ranking {LLM} Responses with Partial Ordering to Improve Response Generation
+
+Artigo encontrado: samuel-etal-2024-llms (Ano: 2024)
+  Título: Can {LLM}s Augment Low-Resource Reading Comprehension Datasets? Opportunities and Challenges
+
+Artigo encontrado: karpinska-iyyer-2023-large (Ano: 2023)
+  Título: Large Language Models Effectively Leverage Document-level Context for Literary Translation, but Critical Errors Persist
+
+Artigo encontrado: wu-etal-2023-empowering (Ano: 2023)
+  Título: Empowering a Metric with {LLM}-assisted Named Entity Annotation: {HW}-{TSC}{'}s Submission to the {WMT}23 Metrics Shared Task
+
+Artigo encontrado: fernandes-etal-2023-devil (Ano: 2023)
+  Título: The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation
+
+Artigo encontrado: yuan-faerber-2023-evaluating (Ano: 2023)
+  Título: Evaluating Generative Models for Graph-to-Text Generation
+
+Artigo encontrado: rajpoot-parikh-2023-nearest (Ano: 2023)
+  Título: Nearest Neighbor Search over Vectorized Lexico-Syntactic Patterns for Relation Extraction from Financial Documents
+
+Artigo encontrado: artemova-plank-2023-low (Ano: 2023)
+  Título: Low-resource Bilingual Dialect Lexicon Induction with Large Language Models
+
+Artigo encontrado: lin-chen-2023-llm (Ano: 2023)
+  Título: {LLM}-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models
+
+Artigo encontrado: strakova-etal-2023-extending (Ano: 2023)
+  Título: Extending an Event-type Ontology: Adding Verbs and Classes Using Fine-tuned {LLM}s Suggestions
+
+Artigo encontrado: meoni-etal-2023-annotation (Ano: 2023)
+  Título: Annotation d{'}entit{\'e}s cliniques en utilisant les Larges Mod{\`e}les de Langue
+
+Artigo encontrado: gonzalez-gallardo-etal-2023-oui (Ano: 2023)
+  Título: Oui mais... {C}hat{GPT} peut-il identifier des entit{\'e}s dans des documents historiques ?
+
+Artigo encontrado: mendonca-etal-2023-dialogue (Ano: 2023)
+  Título: Dialogue Quality and Emotion Annotations for Customer Support Conversations
+
+Artigo encontrado: abdullin-etal-2023-synthetic (Ano: 2023)
+  Título: Synthetic Dialogue Dataset Generation using {LLM} Agents
+
+Artigo encontrado: fu-etal-2023-large (Ano: 2023)
+  Título: Are Large Language Models Reliable Judges? A Study on the Factuality Evaluation Capabilities of {LLM}s
+
+Artigo encontrado: yu-etal-2023-folkscope (Ano: 2023)
+  Título: {F}olk{S}cope: Intention Knowledge Graph Construction for {E}-commerce Commonsense Discovery
+
+Artigo encontrado: yao-etal-2023-korc (Ano: 2023)
+  Título: {K}o{RC}: Knowledge Oriented Reading Comprehension Benchmark for Deep Text Understanding
+
+Artigo encontrado: ferron-etal-2023-meep (Ano: 2023)
+  Título: {MEEP}: Is this Engaging? Prompting Large Language Models for Dialogue Evaluation in Multilingual Settings
+
+Artigo encontrado: bolucu-etal-2023-impact (Ano: 2023)
+  Título: impact of sample selection on in-context learning for entity extraction from scientific writing
+
+Artigo encontrado: yang-etal-2023-hare (Ano: 2023)
+  Título: {HARE}: Explainable Hate Speech Detection with Step-by-Step Reasoning
+
+Artigo encontrado: macina-etal-2023-mathdial (Ano: 2023)
+  Título: {M}ath{D}ial: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems
+
+Artigo encontrado: chen-etal-2023-large (Ano: 2023)
+  Título: Large Language Models Meet Harry Potter: A Dataset for Aligning Dialogue Agents with Characters
+
+Artigo encontrado: shu-etal-2023-intent (Ano: 2023)
+  Título: An Intent-based and Annotation-free Method for Duplicate Question Detection in {CQA} Forums
+
+Artigo encontrado: dai-etal-2023-llm (Ano: 2023)
+  Título: {LLM}-in-the-loop: Leveraging Large Language Model for Thematic Analysis
+
+Artigo encontrado: laskar-etal-2023-large (Ano: 2023)
+  Título: Can Large Language Models Fix Data Annotation Errors? An Empirical Study Using Debatepedia for Query-Focused Text Summarization
+
+Artigo encontrado: yao-etal-2023-beyond (Ano: 2023)
+  Título: Beyond Labels: Empowering Human Annotators with Natural Language Explanations through a Novel Active-Learning Architecture
+
+Artigo encontrado: wang-etal-2023-noise (Ano: 2023)
+  Título: Noise-Robust Fine-Tuning of Pretrained Language Models via External Guidance
+
+Artigo encontrado: zhang-etal-2023-llmaaa (Ano: 2023)
+  Título: {LLM}a{AA}: Making Large Language Models as Active Annotators
+
+Artigo encontrado: kang-etal-2023-chatgpt (Ano: 2023)
+  Título: Can {C}hat{GPT} Perform Reasoning Using the {IRAC} Method in Analyzing Legal Scenarios Like a Lawyer?
+
+Artigo encontrado: chang-fosler-lussier-2023-selective (Ano: 2023)
+  Título: Selective Demonstrations for Cross-domain Text-to-{SQL}
+
+Artigo encontrado: jiao-etal-2023-parrot (Ano: 2023)
+  Título: {P}arro{T}: Translating during Chat using Large Language Models tuned with Human Translation and Feedback
+
+Artigo encontrado: lu-etal-2023-pivoine (Ano: 2023)
+  Título: {PIVOINE}: Instruction Tuning for Open-world Entity Profiling
+
+Artigo encontrado: patel-etal-2023-learning (Ano: 2023)
+  Título: Learning Interpretable Style Embeddings via Prompting {LLM}s
+
+Artigo encontrado: bhat-varma-2023-large (Ano: 2023)
+  Título: Large Language Models As Annotators: A Preliminary Evaluation For Annotating Low-Resource Language Content
+
+Artigo encontrado: akkasi-etal-2023-reference (Ano: 2023)
+  Título: Reference-Free Summarization Evaluation with Large Language Models
+
+Artigo encontrado: li-etal-2023-coannotating (Ano: 2023)
+  Título: {C}o{A}nnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation
+
+Artigo encontrado: hada-etal-2023-fifty (Ano: 2023)
+  Título: ``Fifty Shades of Bias'': Normative Ratings of Gender Bias in {GPT} Generated {E}nglish Text
+
+Artigo encontrado: zhang-etal-2023-crt (Ano: 2023)
+  Título: {CRT}-{QA}: A Dataset of Complex Reasoning Question Answering over Tabular Data
+
+Artigo encontrado: rawte-etal-2023-troubling (Ano: 2023)
+  Título: The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations
+
+Artigo encontrado: mousi-etal-2023-llms (Ano: 2023)
+  Título: Can {LLM}s Facilitate Interpretation of Pre-trained Language Models?
+
+Artigo encontrado: heineman-etal-2023-dancing (Ano: 2023)
+  Título: Dancing Between Success and Failure: Edit-level Simplification Evaluation using {SALSA}
+
+Artigo encontrado: liang-etal-2023-prompting (Ano: 2023)
+  Título: Prompting Large Language Models with Chain-of-Thought for Few-Shot Knowledge Base Question Generation
+
+Artigo encontrado: li-etal-2023-semi (Ano: 2023)
+  Título: Semi-automatic Data Enhancement for Document-Level Relation Extraction with Distant Supervision from Large Language Models
+
+Artigo encontrado: xu-etal-2023-fine (Ano: 2023)
+  Título: Fine-tuned {LLM}s Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over {W}ikidata
+
+Artigo encontrado: chen-etal-2023-beyond (Ano: 2023)
+  Título: Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators
+
+Artigo encontrado: pryzant-etal-2023-automatic (Ano: 2023)
+  Título: Automatic Prompt Optimization with ``Gradient Descent'' and Beam Search
+
+Artigo encontrado: ye-etal-2023-generating (Ano: 2023)
+  Título: Generating Data for Symbolic Language with Large Language Models
+
+Artigo encontrado: handa-etal-2023-mistakes (Ano: 2023)
+  Título: ``Mistakes Help Us Grow'': Facilitating and Evaluating Growth Mindset Supportive Language in Classrooms
+
+Artigo encontrado: rosset-etal-2023-axiomatic (Ano: 2023)
+  Título: Axiomatic Preference Modeling for Longform Question Answering
+
+Artigo encontrado: jiayang-etal-2023-storyanalogy (Ano: 2023)
+  Título: {S}tory{A}nalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding
+
+Artigo encontrado: kim-etal-2023-aligning (Ano: 2023)
+  Título: Aligning Large Language Models through Synthetic Feedback
+
+Artigo encontrado: xiao-etal-2023-freeal (Ano: 2023)
+  Título: {F}ree{AL}: Towards Human-Free Active Learning in the Era of Large Language Models
+
+Artigo encontrado: chen-etal-2023-nl2tl (Ano: 2023)
+  Título: {NL}2{TL}: Transforming Natural Languages to Temporal Logics using Large Language Models
+
+Artigo encontrado: wang-etal-2023-document-level (Ano: 2023)
+  Título: Document-Level Machine Translation with Large Language Models
+
+Artigo encontrado: wang-etal-2023-text2topic (Ano: 2023)
+  Título: {T}ext2{T}opic: Multi-Label Text Classification System for Efficient Topic Detection in User Generated Content with Zero-Shot Capabilities
+
+Artigo encontrado: yu-etal-2023-documentnet (Ano: 2023)
+  Título: {D}ocument{N}et: Bridging the Data Gap in Document Pre-training
+
+Artigo encontrado: kim-etal-2023-cotever (Ano: 2023)
+  Título: {C}o{TEV}er: Chain of Thought Prompting Annotation Toolkit for Explanation Verification
+
+Artigo encontrado: zhang-etal-2023-effects (Ano: 2023)
+  Título: On the Effects of Structural Modeling for Neural Semantic Parsing
+
+Artigo encontrado: zhao-etal-2023-cross (Ano: 2023)
+  Título: Cross-Document Event Coreference Resolution: Instruct Humans or Instruct {GPT}?
+
+Artigo encontrado: ray-choudhury-kalra-2023-implications (Ano: 2023)
+  Título: Implications of Annotation Artifacts in Edge Probing Test Datasets
+
+Artigo encontrado: osorio-vasquez-2023-classifying (Ano: 2023)
+  Título: Classifying Organized Criminal Violence in {M}exico using {ML} and {LLM}s
+
+Artigo encontrado: gonzalez-etal-2023-enhancing (Ano: 2023)
+  Título: Enhancing Human Summaries for Question-Answer Generation in Education
+
+Artigo encontrado: wang-etal-2023-sight (Ano: 2023)
+  Título: {SIGHT}: A Large Annotated Dataset on Student Insights Gathered from Higher Education Transcripts
+
+Artigo encontrado: yin-etal-2023-read (Ano: 2023)
+  Título: Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning
+
+Artigo encontrado: wang-etal-2023-code4struct (Ano: 2023)
+  Título: {C}ode4{S}truct: Code Generation for Few-Shot Event Structure Prediction
+
+Artigo encontrado: liu-etal-2023-revisiting (Ano: 2023)
+  Título: Revisiting the Gold Standard: Grounding Summarization Evaluation with Robust Human Evaluation
+
+Artigo encontrado: yue-etal-2023-metaadapt (Ano: 2023)
+  Título: {M}eta{A}dapt: Domain Adaptive Few-Shot Misinformation Detection via Meta Learning
+
+Artigo encontrado: tanwar-etal-2023-multilingual (Ano: 2023)
+  Título: Multilingual {LLM}s are Better Cross-lingual In-context Learners with Alignment
+
+Artigo encontrado: li-etal-2023-autoconv (Ano: 2023)
+  Título: {A}uto{C}onv: Automatically Generating Information-seeking Conversations with Large Language Models
+
+
+Busca parada. Artigos restantes são mais antigos que 2023.
